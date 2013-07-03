@@ -66,3 +66,5 @@ THEME = "themes/notmyidea-cjf"
 
 PLUGIN_PATH = '/Users/chris/src/pelican-plugins'
 
+FILES_TO_COPY = (('extra/CNAME', 'CNAME'),)
+
