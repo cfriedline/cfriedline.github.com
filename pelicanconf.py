@@ -65,6 +65,21 @@ GOOGLE_ANALYTICS = u'UA-42131442-1'
 THEME = "themes/notmyidea-cjf"
 
 PLUGIN_PATH = '/Users/chris/src/pelican-plugins'
+PLUGINS=['sitemap',]
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'daily',
+        'indexes': 'daily',
+        'pages': 'weekly'
+    }
+}
 
 FILES_TO_COPY = (('extra/CNAME', 'CNAME'),)
 
