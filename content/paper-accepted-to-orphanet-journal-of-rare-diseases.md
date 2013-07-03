@@ -1,5 +1,5 @@
 Date: 2013-07-03 12:10
-Title: New paper out in Orphanet Journal of Rare Diseases
+Title: New Paper Accepted to Orphanet Journal of Rare Diseases
 Tags: publications, microbiome
 
 Jeremy Gilbreath's paper, _A Core Microbiome Associated with the Peritoneal Tumors of 
