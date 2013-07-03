@@ -130,7 +130,7 @@ table {margin: 0em auto 1.5em auto; width: 98%;}
 	thead td {}
 
 	/* Tbody */
-	tbody td {padding: .5em .4em;}
+	tbody td {padding: 0em 0em;}
 	tbody th {}
 	
 	tbody .alt td {}
