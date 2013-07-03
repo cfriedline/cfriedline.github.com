@@ -22,8 +22,6 @@ def new_post(title, slug=None, post_type="post"):
         out_file = "content/{}.md".format(slug)
     else:
         out_file = "content/pages/{}.md".format(slug)
-    
-)
         
     if not os.path.exists(out_file):
         with open(out_file, "w") as o:
