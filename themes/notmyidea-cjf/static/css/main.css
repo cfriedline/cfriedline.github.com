@@ -27,6 +27,18 @@ body {
     text-align: left;
 }
 
+#google-custom-search {
+  width: 300px;
+  float: right;
+  margin-top: 5px;
+  .gsc-control-cse {
+    padding: 0 !important;
+    border: 0 !important;
+    background-color: transparent !important;
+  }
+}
+
+
 /* Headings */
 h1 {font-size: 2em }
 h2 {font-size: 1.571em}	/* 22px */

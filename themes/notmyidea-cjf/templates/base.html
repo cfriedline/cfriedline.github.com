@@ -20,7 +20,7 @@
 {% include 'github.html' %}
         <header id="banner" class="body">
                 <h1><a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
-                <nav><ul>
+				<nav><ul>
                 {% for title, link in MENUITEMS %}
                     <li><a href="{{ link }}">{{ title }}</a></li>
                 {% endfor %}
@@ -34,7 +34,11 @@
                     <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
                 {% endfor %}
                 {% endif %}
-                </ul></nav>
+				</ul>
+			</nav>
+			
+            
+			
         </header><!-- /#banner -->
         {% block content %}
         {% endblock %}
@@ -74,8 +78,10 @@
                 
         </footer><!-- /#contentinfo -->
 
+{% include 'google_search.html' %}
 {% include 'analytics.html' %}
 {% include 'piwik.html' %}
 {% include 'disqus_script.html' %}
+
 </body>
 </html>
