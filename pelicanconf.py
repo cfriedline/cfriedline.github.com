@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Christopher J. Friedline'
 SITENAME = u'Christopher J. Friedline, Ph.D.'
 SITESUBTITLE = u"A postdoc's tale..."
-SITEURL = 'http://cfriedline.github.io'
+SITEURL = 'http://chris.friedline.net'
 
 TIMEZONE = 'America/New_York'
 
