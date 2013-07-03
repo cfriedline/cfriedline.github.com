@@ -77,7 +77,7 @@ SITEMAP = {
     'changefreqs': {
         'articles': 'daily',
         'indexes': 'daily',
-        'pages': 'weekly'
+        'pages': 'daily'
     }
 }
 
