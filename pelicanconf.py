@@ -81,5 +81,8 @@ SITEMAP = {
     }
 }
 
-FILES_TO_COPY = (('extra/CNAME', 'CNAME'),)
+FILES_TO_COPY = (
+('extra/CNAME', 'CNAME'),
+('extra/google34b2553a47731679.html', 'google34b2553a47731679.html'),
+)
 
