@@ -33,7 +33,7 @@ with a Professional Science Masters (M.Bin.) degree.
 
 **Way back then**
 
-I graduated from Gettysburg College in 1999, after spending most of my senior year as a graduate/Optometry student 
+I graduated from [Gettysburg College](http://www.gettysburg.edu) in 1999, after spending most of my senior year as a graduate/Optometry student 
 at the [Pennsylvania College of Optometry](http://www.salus.edu/optometry/) as part of a 3-4 program.  I quickly 
 realized that Optometry was not the direction in which I wanted to take my life, despite years of planning and undergraduate 
 acceleratory hammering.  I was able to secure an entry-level Information Technology job with 
