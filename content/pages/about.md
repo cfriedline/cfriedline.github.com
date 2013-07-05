@@ -33,12 +33,12 @@ with a Professional Science Masters (M.Bin.) degree.
 
 **Way back then**
 
-I graduated from [Gettysburg College](http://www.gettysburg.edu) in 1999, after spending most of my senior year as a graduate/Optometry student 
-at the [Pennsylvania College of Optometry](http://www.salus.edu/optometry/) as part of a 3-4 program.  I quickly 
-realized that Optometry was not the direction in which I wanted to take my life, despite years of planning and undergraduate 
-acceleratory hammering.  I was able to secure an entry-level Information Technology job with 
-[Bentley Systems](http://www.bentley.com) in 1999, and worked there until 2001.  I was promoted twice in that time,  
-from Systems Analyst to Senior Systems Analyst to Systems Administrator.  I loved working there, but changes 
+I graduated from [Gettysburg College](http://www.gettysburg.edu) in 1999, after spending most of my senior year as a 
+graduate/Optometry student at the [Pennsylvania College of Optometry](http://www.salus.edu/optometry/) as part of a 3-4 
+program. I quickly realized that Optometry was not the direction in which I wanted to take my life, despite years of 
+planning and undergraduate acceleratory hammering.  I was able to secure an entry-level Information Technology job with 
+[Bentley Systems](http://www.bentley.com) in 1999, and worked there until 2001.  I was promoted twice in that time, from 
+Systems Analyst to Senior Systems Analyst to Systems Administrator.  I loved working there, but cha  nges 
 in my personal life brought me to Richmond, VA in the winter of 2002.  After completing MCSA and MCSE certificaitons, 
 I worked in various senior, IT roles (e.g., the now defunct Circuit City, [Infineon](http://www.infineon.com), and 
 [VCU Health System](http://www.vcuhealth.org)) for the next 
