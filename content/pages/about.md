@@ -40,7 +40,8 @@ acceleratory hammering.  I was able to secure an entry-level Information Technol
 [Bentley Systems](http://www.bentley.com) in 1999, and worked there until 2001.  I was promoted twice in that time,  
 from Systems Analyst to Senior Systems Analyst to Systems Administrator.  I loved working there, but changes 
 in my personal life brought me to Richmond, VA in the winter of 2002.  After completing MCSA and MCSE certificaitons, 
-I worked in various senior, IT roles (e.g., Circuit City, Infineon, VCU Health System) for the next 
+I worked in various senior, IT roles (e.g., the now defunct Circuit City, [Infineon](http://www.infineon.com), and 
+[VCU Health System](http://www.vcuhealth.org)) for the next 
 five years until 2007.  After working for these and other companies, as both salaried employee and consultant, 
 I came to the realization that I could do more with my life and contribute back to society in other ways.  I quit IT, 
 had a retirement party, and continued down the path of academia.
