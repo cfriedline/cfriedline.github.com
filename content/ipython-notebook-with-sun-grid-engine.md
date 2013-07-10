@@ -29,7 +29,7 @@ be clear by the end of this document.  If not, definitely check out the
 [IPython documentation](http://ipython.org/ipython-doc/dev/config/index.html).  
 
 #Create an IPython profile
-    ipython profile create sge
+    ipython profile create --parallel --profile=sge
 	
 This will create a profile as IPYTHONDIR/profile_sge
 
@@ -60,7 +60,7 @@ Our cluster setup has compute nodes which all have access to any one of several
 NFS mounts.  While this is somewhat of a generic setup, a _feature_ which can 
 result is a write delay of the controller and engine scripts that get dropped 
 when starting a cluster from the notebook. To get around this, I made an edit to 
-`lib/python2.7/site-packages/IPython/frontend/html/notebook/clustermanager.py` which 
+`lib/python2.7/site-packages/IPython/html/services/clusters/clustermanager.py` which 
 changes `delay = CFloat(1., config=True,...)` to delay = CFloat(30., config=True,...).
 This effectively will, when a cluster is initiated from the notebook, start a controller 
 process via qsub, wait 30 seconds, then start the array job for the engines. This is a 
