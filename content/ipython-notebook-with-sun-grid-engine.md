@@ -67,6 +67,9 @@ process via qsub, wait 30 seconds, then start the array job for the engines. Thi
 definite hack, and I'd like to see it implemented as a feature sometime in the future. I 
 should probably file a bug...
 
+__Note__: The previous location for this setting (0.13.x - ?) was here:
+`lib/python2.7/site-packages/IPython/frontend/html/notebook/clustermanager.py`
+
 #Create scripts to start the job
 
 I created two scripts to start the notebook process on the cluster.
