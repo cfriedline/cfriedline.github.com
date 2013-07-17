@@ -26,6 +26,7 @@ LINKS =  (
 ('Not Exactly Rocket Science', 'http://phenomena.nationalgeographic.com/blog/not-exactly-rocket-science/'),
 ('Dechronization', 'http://treethinkers.blogspot.com'),
 ('TreeThinkers', 'http://treethinkers.org/blog/'),
+("Haldane's Sieve", 'http://haldanessieve.org'),
 )
 
 # Social widget
