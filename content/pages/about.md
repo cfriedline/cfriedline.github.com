@@ -19,7 +19,7 @@ _Phylometagenomics_ coupled with other best-of-breed methods in the field.  We
 [published](http://www.biogeosciences.net/9/2177/2012/bg-9-2177-2012.html) one of the chapters 
 of my dissertation, and there is more to come, including a fully-flushed out 
 treatment of the Bayesian analysis routine used in this paper.  We were also involved in the 
-Eugelozoa arm of the [Assembling the Tree of Life](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5129) 
+Euglenozoa arm of the [Assembling the Tree of Life](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5129) 
 project funded by NSF, but lack of adequate data and project management (to no fault of our own) has 
 hampered our ability to elucidate any relationships among these organisms.
 
