@@ -12,6 +12,7 @@ READERS = {'html': None}
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
+DEFAULT_DATE = 'fs'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
