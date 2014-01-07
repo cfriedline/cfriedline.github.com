@@ -1,10 +1,10 @@
 Date: 2014-01-07 15:19
 Title: 2013 in review
-Tags: field
+Tags: field, permits, gore
 
 Now that the chaos of the end of the year is behind me, I thought I'd 
 take a step back and look at my progress (such as it was).  Lots of lessons 
-were learned this year, not just scientifically either.  Navigating the 
+were learned this year, and not just scientifically.  Navigating the 
 inter-state bureaucracy when it comes to collecting samples is, to put it 
 nicely, slow and inconsistent.  More on that later.
 
@@ -76,7 +76,7 @@ however, learn some valuable lessons:
 
 1. Make sure to allow enough time for sampling and travel.
 1. Make sure to obtain any and all permits, even if you might not need them.
-1. Carry platic wine glasses in the camper.
+1. Carry plastic wine glasses in the camper.
 1. Don't bring your wife and baby on a 10-day camping/field expedition.
 1. If you do bring wife and/or baby, make sure to consult wife ahead of time.
 
@@ -87,24 +87,24 @@ however, learn some valuable lessons:
 Getting permits for sampling turned out to be more of a chore than I imagined.  Seems like so much 
 of science, really, and at some point I suppose I'll stop getting surprised by it.  For those of you 
 who are reading and planning on embarking on a scientific sampling endeavor (outside of CA, where, according 
-to Andrew, you can pretty much sample anyting as long as you're not taking seeds), save yourself a 
+to Andrew, you can pretty much sample anything as long as you're not taking seeds), save yourself a 
 lot of heartache and contact the states/national offices before you go.  This will save time, hassle, 
-and jailtime - trust me.
+and jail time - trust me.
 
 The process is as follows (roughly):
 
-1. Search for the state parks you want to visit online
-1. Navigate an unpublished and inexplicably long phone tree
-1. If you want find a phone number, find an email
-1. If you can't find an email, call the park reservation line
+1. Search for the state parks you want to visit on-line.
+1. Navigate an unpublished and inexplicably long phone tree.
+1. If you can't find a phone number, find an email.
+1. If you can't find an email, call the park reservation line.
 1. Once you find the right person, find out what they need from you.  In my case, my grant application, approval letter, 
-and a page or two of description did the trick
-1. Submit apps and wait (up to a month or more).  
+and a page or two of description did the trick.
+1. Submit applications, pay (if required), and wait (up to a month or more).  
 
 Most of the approved permits also come with some strings attached.  For some states, I'm required to renew early/often, 
 provide detailed reports, and/or speak at their meetings about my project.  Most places require that I give 
-them advanced notcie of when I'm going to be at their location.  Luckily, it seems like they're cool with approximations and 
-it really does come in handly when the park is expecting your visit.  Usually, they also want to know what sites you plan 
+them advanced notice of when I'm going to be at their location.  Luckily, it seems like they're cool with approximations and 
+it really does come in handy when the park is expecting your visit.  Usually, they also want to know what sites you plan 
 on visiting rather than, say, "I'd really like a permit to visit any state park in FL for the next year."  For national parks, 
 it's a little more complicated.  In my case, I submitted an application for the entire region 8 which covers any site I might 
 want to visit in the southeast.

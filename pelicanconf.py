@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Christopher J. Friedline'
 SITENAME = u'Christopher J. Friedline, Ph.D.'
 SITESUBTITLE = u"A postdoc's tale..."
-SITEURL = 'http://chris.friedline.net'
+# SITEURL = 'http://chris.friedline.net'
 
 READERS = {'html': None}
 
@@ -45,7 +45,7 @@ SOCIAL = (
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = False
 
 TYPOGRIFY = True
 
@@ -85,6 +85,11 @@ SITEMAP = {
     }
 }
 
-STATIC_PATHS = [
-    'extra/CNAME', 'extra/google34b2553a47731679.html'
-]
+STATIC_PATHS = ['extra/CNAME', 'extra/google34b2553a47731679.html', 'images']
+
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+    'extra/google34b2553a47731679.html': {'path': 'google34b2553a47731679.html'},
+    }
+
+
