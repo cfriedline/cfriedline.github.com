@@ -63,7 +63,7 @@ def preview():
     local('pelican -s publishconf.py')
 
 def publish():
-    local('pelican -s publishconf.py & '
-          'ghp-import %s & '
-          'git push git@github.com:cfriedline/cfriedline.github.com gh-pages:master & '
-          'git push' % env.deploy_path)
+    local('pelican -s publishconf.py')
+    local('ghp-import %s' % env.deploy_path)
+    local('git push git@github.com:cfriedline/cfriedline.github.com gh-pages:master')
+    local('git push')
