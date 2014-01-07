@@ -7,6 +7,8 @@ SITENAME = u'Christopher J. Friedline, Ph.D.'
 SITESUBTITLE = u"A postdoc's tale..."
 SITEURL = 'http://chris.friedline.net'
 
+READERS = {'html': None}
+
 TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
@@ -66,7 +68,7 @@ GOOGLE_ANALYTICS = u'UA-42131442-1'
 THEME = "themes/notmyidea-cjf"
 
 PLUGIN_PATH = '/Users/chris/src/pelican-plugins'
-PLUGINS=['sitemap',]
+PLUGINS = ['sitemap']
 
 SITEMAP = {
     'format': 'xml',
@@ -82,7 +84,6 @@ SITEMAP = {
     }
 }
 
-FILES_TO_COPY = (
-('extra/CNAME', 'CNAME'),
-('extra/google34b2553a47731679.html', 'google34b2553a47731679.html'),
-)
+STATIC_PATHS = [
+    'extra/CNAME', 'extra/google34b2553a47731679.html'
+]

@@ -1,11 +1,10 @@
-#borrowed from https://github.com/esacteksab/fabric4pelican
-
-import os
 import datetime
 import slugify
-from fabric.api import puts, local
-from jinja2 import Environment, FileSystemLoader
+from fabric.api import local, env
+import os
 
+
+#borrowed from https://github.com/esacteksab/fabric4pelican
 def new_post(title, slug=None, post_type="post"):
     if slug is None:
         slug = slugify.slugify(u'%s' % title)
@@ -32,4 +31,47 @@ def new_post(title, slug=None, post_type="post"):
         print "Wrote %s" % (out_file)
     else:
         print ("{} already exists.".format(out_file))
-        
+
+
+# Local path configuration (can be absolute or relative to fabfile)
+env.deploy_path = 'output'
+DEPLOY_PATH = env.deploy_path
+
+def clean():
+    if os.path.isdir(DEPLOY_PATH):
+        local('rm -rf {deploy_path}'.format(**env))
+        local('mkdir {deploy_path}'.format(**env))
+
+def build():
+    local('pelican -s pelicanconf.py')
+
+def rebuild():
+    clean()
+    build()
+
+def regenerate():
+    local('pelican -r -s pelicanconf.py')
+
+def serve():
+    local('cd {deploy_path} && python -m SimpleHTTPServer'.format(**env))
+
+def reserve():
+    build()
+    serve()
+
+def preview():
+    local('pelican -s publishconf.py')
+
+def cf_upload():
+    rebuild()
+    local('cd {deploy_path} && '
+          'swift -v -A https://auth.api.rackspacecloud.com/v1.0 '
+          '-U {cloudfiles_username} '
+          '-K {cloudfiles_api_key} '
+          'upload -c {cloudfiles_container} .'.format(**env))
+
+def publish():
+    local('publish & '
+          'ghp-import %s & '
+          'git push git@github.com:cfriedline/cfriedline.github.com gh-pages:master & '
+          'git push' % env.deploy_path)
