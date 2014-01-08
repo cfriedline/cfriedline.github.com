@@ -20,8 +20,8 @@ to South Carolina, Florida, Alabama, and Georgia. In my mind, this
 was reasonable. Hell, I was even building just travel days so our 
 baby daughter didn't have to spend 12+ hours in the car. I care. I 
 really do. Most of our camping was going to be done in our pop-up, 
-towed lovingly by our trusty SAAB. We had heat, water, power, and all 
-shelter - we were golden. The trip stared off innocently enough, and we made it our first night stay 
+towed lovingly by our trusty SAAB. We had heat, water, power, and shelter - 
+we were golden. The trip started off innocently enough, and we made it our first night stay 
 without issue, if not somewhat late at night, at 
 [The Oaks](http://www.reserveamerica.com/camping/The_Oaks/r/campgroundDetails.do?parkId=261505&contractCode=ELS2&chkAg=y&clCr=y) 
 in South Carolina. The next day was a drive to FL to stay over at 
