@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Christopher J. Friedline'
 SITENAME = u'Christopher J. Friedline, Ph.D.'
-SITESUBTITLE = u"A postdoc's tale..."
+SITESUBTITLE = u"will blog for tenure..."
 SITEURL = 'http://chris.friedline.net'
 
 READERS = {'html': None}
