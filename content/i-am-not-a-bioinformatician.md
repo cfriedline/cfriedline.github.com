@@ -88,7 +88,7 @@ on **postdoc**, but people either don't know what that is, or think it has
 something to do with a Ph.D., but upon further inspection of my person, let's face it, 
 doesn't often jive with stretched ears and ample tattoos.
 
-So, yeah, to sum it up: **Never**, however, have I ever said that I was a 
-*bioinformatician* (and you shouldn't either).
+So, yeah, to sum it up: I neither have said nor ever will say that I am 
+*bioinformatician* (and you shouldn't, either).
 
 --Chris
