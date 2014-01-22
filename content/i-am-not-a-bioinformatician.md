@@ -1,4 +1,4 @@
-Date: 2014-01-16 10:15
+Date: 2014-01-22 14:50
 Title: I am not a bioinformatician
 Tags: bnfo, facepalm, rant
 
