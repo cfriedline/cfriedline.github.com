@@ -79,8 +79,8 @@ interact, either (or in some combination):
 1. Don't play well with others (read: huge ego)
 1. Overstay their welcome and/or overestimate their contributions
 
-So, if I'm not a bioinformatician, then what (other than elitist, jerk, etc.)?  
-What do I tell my in-laws, friends, relatives, or the occasional stranger at a bar?  
+So, if I'm not a bioinformatician, then what (other than elitist, jerk, etc.)? 
+What do I tell my in-laws, friends, relatives, or the occasional stranger at a bar? 
 Usually, I say that **I am a scientist**, further probing leads me into **evolutionary 
 biologist** (where my main passions lie) or **computational biologist** (for 
 practicality).  If I really don't care to talk at that moment, I'll even fall back 
