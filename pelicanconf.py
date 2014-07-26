@@ -85,11 +85,16 @@ SITEMAP = {
     }
 }
 
-STATIC_PATHS = ['extra/CNAME', 'extra/google34b2553a47731679.html', 'images']
+STATIC_PATHS = ['extra/CNAME',
+                'extra/google34b2553a47731679.html',
+                'images',
+                'extra/bootstrap.flatlysrc.min.css']
 
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/google34b2553a47731679.html': {'path': 'google34b2553a47731679.html'},
+    'extra/bootstrap.flatlysrc.min.css': {'path': 'theme/css/bootstrap.flatlysrc.min.css'}
     }
 
-BOOTSTRAP_THEME = "flatly"
+BOOTSTRAP_THEME = "flatlysrc"
+
