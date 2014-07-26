@@ -68,7 +68,7 @@ GOOGLE_ANALYTICS = u'UA-42131442-1'
 
 THEME = "/Users/chris/src/pelican-themes/pelican-bootstrap3"
 
-PLUGIN_PATH = '/Users/chris/src/pelican-plugins'
+PLUGIN_PATHS = ['/Users/chris/src/pelican-plugins']
 PLUGINS = ['sitemap','related_posts']
 
 SITEMAP = {
