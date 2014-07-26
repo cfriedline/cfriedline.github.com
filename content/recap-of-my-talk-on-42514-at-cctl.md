@@ -54,7 +54,7 @@ end of the year.
 
 The Spring, except for the fine coating of pollen on everything,
 is a fantastic time of year in VA and NC, and I took full advantage
-of it by riding down on my new [Triumph](images/triumph.png)
+of it by riding down on my new [Triumph](/images/triumph.png)
 (much to my wife's dismay). The weather was in the 70's and 80's,
 and it was an amazing ride on country roads and through small
 towns. I really also dig "The Wave," and
