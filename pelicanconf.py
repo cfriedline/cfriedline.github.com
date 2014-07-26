@@ -92,7 +92,4 @@ EXTRA_PATH_METADATA = {
     'extra/google34b2553a47731679.html': {'path': 'google34b2553a47731679.html'},
     }
 
-TAG_CLOUD_STEPS = 4
-TAG_CLOUD_MAX_ITEMS  = 10
-
 BOOTSTRAP_THEME = "flatly"
