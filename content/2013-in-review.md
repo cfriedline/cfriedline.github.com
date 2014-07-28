@@ -163,7 +163,7 @@ the [Seafood Palace](http://www.yelp.com/biz/seafood-palace-lake-charles?nb=1), 
 The weather for sampling the next day could not have been better - sunny and warm! Finally, we had the weather 
 I thought we'd have for the entire trip. Out of time, we needed to get back to Richmond by Friday evening. We 
 left Sam Houston Jones, had boudin/cracklin' dinner at [Best Stop](http://www.yelp.com/biz/best-stop-supermarket-the-scott?nb=1) 
-in Scott, LA (that's to the guy at Botsky's for the tip!), set up camp at some place in Mississippi about 1/3 of the way home, 
+in Scott, LA (thanks to the guy at Botsky's for the tip!), set up camp at some place in Mississippi about 1/3 of the way home, 
 and drove the remainder on Friday. This trip yielded some new insights as well:
 
 1. Going into the field with someone else is much more fun and enjoyable than going alone.
