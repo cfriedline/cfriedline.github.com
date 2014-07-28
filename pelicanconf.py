@@ -66,7 +66,7 @@ TWITTER_USERNAME = u'noituloveand'
 
 GOOGLE_ANALYTICS = u'UA-42131442-1'
 
-THEME = "/Users/chris/src/pelican-themes/pelican-bootstrap3"
+THEME = "/Users/chris/src/pelican-bootstrap3"
 
 PLUGIN_PATHS = ['/Users/chris/src/pelican-plugins']
 PLUGINS = ['sitemap','related_posts']
