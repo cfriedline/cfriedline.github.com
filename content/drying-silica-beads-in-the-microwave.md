@@ -8,7 +8,7 @@ field again, having used all of the silica beads in previous trips
 two obvious choices: buy new or reuse. Being the thrifty scientists
 that we are (hey, we are supported by the NSF, after all), you can
 probably guess which way we went. Plus, silica is darn expensive, and
-we'd much rather spend our lab money on supplies (beer).
+we'd much rather spend our lab money on more critical supplies (beer).
 
 For those unfamiliar with the awesomeness of silica beads, we buy them
 in bulk with an indicator: OITND (Orange is the New Dry). Actually, no
