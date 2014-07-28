@@ -103,3 +103,5 @@ BOOTSTRAP_THEME = "flatlysrc"
 CUSTOM_CSS = "theme/css/custom.css"
 
 DISPLAY_BREADCRUMBS = True
+
+DISPLAY_ARTICLE_INFO_ON_INDEX = True
