@@ -51,7 +51,9 @@ ruler. (*Note: be careful, the beads get wicked hot!*). Some sticking
 is normal, but be careful. If they get too hot and burn, they are
 ruined.
 
-1. Cook for another 3 minutes on medium 1. Stir again (see
+1. Cook for another 3 minutes on medium
+
+1. Stir again (see
 above)
 
 1. Go another minute if necessary (we do, but again, YMMV).
