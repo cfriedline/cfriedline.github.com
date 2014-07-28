@@ -33,15 +33,28 @@ all three of you (including my parents) who read this blog.
 It goes a little something like this:
 
 1. Remove the beads from current tubes and pour them into something
-convenient to store them before drying 1. Get a 13x9x2 Pyrex baking
-dish 1. Pour (carefully, as they get bouncy) a nice single layer of
-beads 1. Set your microwave to medium (our setting is 5/10, but YMMV)
-1. Cook the beads for 3 minutes 1. Take out and give a good stir.  We
+convenient to store them before drying
+
+1. Get a 13x9x2 Pyrex baking
+dish
+
+1. Pour (carefully, as they get bouncy) a nice single layer of
+beads
+
+1. Set your microwave to medium (our setting is 5/10, but YMMV)
+
+1. Cook the beads for 3 minutes
+
+1. Take out and give a good stir.  We
 use a technical piece of equipment designed for stirring, like a
 ruler. (*Note: be careful, the beads get wicked hot!*). Some sticking
 is normal, but be careful. If they get too hot and burn, they are
-ruined.  1. Cook for another 3 minutes on medium 1. Stir again (see
-above) 1. Go another minute if necessary (we do, but again, YMMV).
+ruined.
+
+1. Cook for another 3 minutes on medium 1. Stir again (see
+above)
+
+1. Go another minute if necessary (we do, but again, YMMV).
 
 If all goes right, you should have a nice, orange, ready-to-go set of
 beads.  All that's left to do is put them into new tubes and organize
