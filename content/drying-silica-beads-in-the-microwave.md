@@ -1,4 +1,5 @@
-Date: 2014-07-28 10:57 Title: Drying silica beads in the microwave
+Date: 2014-07-28 10:57
+Title: Drying silica beads in the microwave
 Tags: lab
 
 So, this is a new fun one. As I need to get my butt back out in the
