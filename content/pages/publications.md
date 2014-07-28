@@ -28,4 +28,5 @@ Precedings (2011).
 
 * Friedline, C. J., Zhang, X. & Zehner, Z. FindSUMO: A PSSM-Based Method
 for Sumoylation Site Prediction. Advanced Intelligent Computing Theories
-and Applications. With Aspects of Artificial Intelligence (2008).
+and Applications. With Aspects of Artificial Intelligence. Lecture Notes in
+Computer Science Volume 5227 (2008).
