@@ -122,4 +122,4 @@ GITHUB_USER = "cfriedline"
 
 GITHUB_REPO_COUNT = 5
 
-GITHUB_SHOW_USER_LINK = True
+
