@@ -23,6 +23,7 @@ LINKS =  (
 ('Rivera Lab', 'http://riveralab.bio.vcu.edu/'),
 ('VCU Biology', 'http://www.biology.vcu.edu'),
 ('Evol.Fri', 'http://evolfri.blogspot.com'),
+('Software Carpentry', 'http://www.software-carpentry.org'),
 ('The Tree of Life', 'http://phylogenomics.blogspot.com'),
 ('Living in an Ivory Basement', 'http://ivory.idyll.org/blog'),
 ('The Loom', 'http://phenomena.nationalgeographic.com/blog/the-loom/'),
