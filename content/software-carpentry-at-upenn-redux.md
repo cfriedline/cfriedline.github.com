@@ -196,10 +196,13 @@ showered with praise, but it's really rewarding when you know your
 time was well-spent.
 
 It was great to meet and teach with David, and I learned a lot from
-watching him teach a subject in which he is an expert.  I also enjoyed
+watching him teach a subject in which he is an expert. I also enjoyed
 our conversations walking back to the hotel from campus. It would be a
 pleasure to teach with him again and I have absolutely no reservations
 in recommending him as an instructor for future bootcamps.
+
+In the future, I'll also make sure to do a better job to express the
+importance of both the pre- and post-bootcamp surveys.
 
 I especially want to thank Doug J., David S., and Charlotte M. for
 taking such great care of us while we were there. From getting us
@@ -210,5 +213,6 @@ you, thank you.
 
 Though my schedule is kind of absurd these days, I'll be sure to carve
 out as much time as I can in the future to be able to teach one of
-these bootcamps again. It was privilege.
+these bootcamps again (and hopefully it won't be too long, hint.). It
+was privilege.
 
