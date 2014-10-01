@@ -198,7 +198,7 @@ time was well-spent.
 It was great to meet and teach with David, and I learned a lot from
 watching him teach a subject in which he is an expert. I also enjoyed
 our conversations walking back to the hotel from campus. It would be a
-pleasure to teach with him again and I have absolutely no reservations
+pleasure to teach with him again, and I have absolutely no reservations
 in recommending him as an instructor for future bootcamps.
 
 In the future, I'll also make sure to do a better job to express the
