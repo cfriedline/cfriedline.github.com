@@ -15,13 +15,14 @@ then. Luckily, no one reads my blog.
 The planning for this bootcamp came together very quickly, and I think
 all parties can agree that some things could have been tightened up a
 little bit. With that said, I think it went off really well. It was an
-amazing experience both as a scientist to be that stimulating of an
-environment and as an instructor having the privilege of a body of
-students so excited and (dare I say) hungry for the material. I was
-extremely proud to be representing Software Carpentry, and I hope we
-did the name justice when all was said and done. 
+amazing experience both as a scientist to be immersed in that
+stimulating of an environment and as an instructor having the good
+fortune of a body of students so excited and (dare I say) hungry for
+the material. I was extremely proud to be representing Software
+Carpentry, and I hope we did the name justice when all was said and
+done.
 
-If you've ready my [bio](about.html), you already know that I lived
+If you've ready my [bio](/pages/about.html), you already know that I lived
 around the Philadelphia area for several years before moving to
 Richmond, VA. It was great to be back in the city and having dinner at
 old ([Monk's Cafe](http://www.monkscafe.com)) and new
@@ -60,7 +61,7 @@ committed to the repos from the start, I think.
 ###Teaching git
 
 Throughout the instructor training (did I mention this was my first
-time teaching a bootcamp) and after, it was never clear to me the
+time teaching a bootcamp?) and after, it was never clear to me the
 direction with which the lessons were to be delivered. It seemed to
 be entirely up to the particular instructor, a situation in which I'm
 very comfortable, but I didn't want to step on any toes. Reading
@@ -89,7 +90,9 @@ too many Google Chrome windows, but that was all quite
 self-inflicted. Having a ready shell integrated with presentation
 slides was, from my point of view, a pretty effective way to deliver
 the material. I would welcome feed back here, especially from the
-bootcamp participants on how it actually went over.
+bootcamp participants on how it actually went over. The notebook
+containing the slides can be downloaded
+[here](https://github.com/cfriedline/swc-slides/blob/master/2014-08-21-upenn/git.ipynb).
 
 So, with that out of the way, the git lessons in the course material
 were already quite solid, so I didn't really add anything there except
@@ -134,17 +137,19 @@ that, for me at least, it would be really distracting. Having someone
 else there to monitor it was really helpful. It's also a great
 resource for data mining and adjusting lessons in the future, though I
 will admit that I haven't had a chance to go back to my slides and
-adjust.
+adjust.  All in all, the room worked out fine, so if there are
+reservations about this in the future, it turned out (at least for us)
+to be not that big of a deal.
 
 ### Live tweeting
 
 I attempted to live tweet while David was teaching as well as
-encouraging others to do so as well. However, it seemed like our
+encouraging others to do so, as well. However, it seemed like our
 audience wasn't too into it, so I personally devoted most of my time
 to the Etherpad. It didn't stop me from sending a few tweets out,
-though. I think in the future, I'll make more of an effort to get participants
-to do this, as it's a great motivator for instructors to do well and is
-great free promotion for the organization.
+though. I think in the future, I'll make more of an effort to get
+participants to do this, as it's a great motivator for instructors to
+do well and is great free promotion for the organization.
 
 ##Day 2
 
