@@ -36,10 +36,10 @@ with getting the required software up and going before we got
 started. No one really needed our help for this part, so we spent the
 time getting our laptops connected to the projector, finding the chalk
 (I love chalk!) for the boards, and planning the day. We settled on
-each teaching for 1/2 of each day with David handling bash and python
+each teaching for 1/2 of each day with David handling Bash and Python
 and me up for git and SQL. I sent out a few tweets about this, but I
 feel like we (myself included) were all quite fortunate to have a core
-CPython maintainer going over shell and python lessons. Having not
+CPython maintainer going over shell and Python lessons. Having not
 taught a huge amount (by his own admission), I thought David delivered
 all of his lessons with an expected level of mastery. That afternoon,
 I taught the git material, but perhaps in a different way than
@@ -179,7 +179,7 @@ of databases in general and how they can immediately be applied, as I
 have done, in common next-generation sequencing and phylogenetics
 workflows. In a room full of material scientists, I was even able to
 find a fellow phylogeneticist to talk to about how I handle some of my
-data in git, python, and SQL
+data in git, Python, and SQL
 ([Dogfooding](http://en.wikipedia.org/wiki/Eating_your_own_dog_food),
 at it's best).
 
