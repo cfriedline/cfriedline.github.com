@@ -7,7 +7,7 @@ Tags: swcarpentry, teaching, sql, python
 This post has been a long time coming, since
 [R. David Murray](http://www.twitter.com/rdavidmurray) and I taught
 the [bootcamp](http://swcarpentry.github.io/2014-08-21-upenn) on
-8/21/2014. Sadly, I've been struggling with wrangling my own data,
+8/21-22/2014. Sadly, I've been struggling with wrangling my own data,
 collaborators, going to NSF, planning sampling trips, helping to train
 the new undergrads in the lab, and about 1000 other things since
 then. Luckily, no one reads my blog.
