@@ -2,7 +2,7 @@ Date: 2014-10-14 14:20
 Title: How we should (and should not) collaborate
 Tags: collaborate, git, latex, openscience
 
-For those of you how know me (all 10 of you), you are well aware of
+For those of you who know me (all 10 of you), you are well aware of
 where I stand on open science and, more recently, on
 reproducibility. For everyone else, I believe strongly in open
 science, open writing, open collaboration, accountability, and
