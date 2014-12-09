@@ -47,10 +47,16 @@ publish:
 
 github: publish
 	ghp-import $(OUTPUTDIR)
-	git push git@github.com:cfriedline/cfriedline.github.com gh-pages:master
+	git push origin gh-pages:master
 	git push
 
 submodule:
 	git submodule update --recursive	
+
+travis: publish
+	ghp-import $(OUTPUTDIR)
+	git rm origin
+	git remote add origin https://cfriedline:${GH_TOKEN}/cfriedline/cfriedline.github.com
+	git push origin gh-pages:master
 
 .PHONY: html help clean regenerate devserver publish github submodule
