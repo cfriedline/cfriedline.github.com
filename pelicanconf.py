@@ -94,7 +94,6 @@ STATIC_PATHS = ['extra/CNAME',
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/google34b2553a47731679.html': {'path': 'google34b2553a47731679.html'},
-    'extra/bootstrap.flatlysrc.min.css': {'path': 'theme/css/bootstrap.flatlysrc.min.css'},
     'extra/custom.css': {'path':'theme/css/custom.css'}
     }
 
