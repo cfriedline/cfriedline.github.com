@@ -61,4 +61,4 @@ travis: publish
 	git remote add origin https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git > /dev/null
 	git push -f origin gh-pages:master > /dev/null
 
-.PHONY: html help clean regenerate devserver publish github submodule
+.PHONY: html help clean regenerate devserver publish github submodule travis
