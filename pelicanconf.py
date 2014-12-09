@@ -38,7 +38,6 @@ SOCIAL = (
 ('Bitbucket', 'http://www.bitbucket.org/cfriedline'),
 ('Github', 'http://github.com/cfriedline'),
 ('Twitter', 'http://twitter.com/noituloveand'),
-('Facebook', 'http://www.facebook.com/cfriedline'),
 ('LinkedIn', 'http://www.linkedin.com/in/friedline'),
 )            
             
