@@ -47,7 +47,7 @@ publish:
 
 github: publish
 	ghp-import $(OUTPUTDIR)
-	git push origin gh-pages:master
+	git push -f origin gh-pages:master
 	git push
 
 submodule:
