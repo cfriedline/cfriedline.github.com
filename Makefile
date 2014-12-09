@@ -55,7 +55,7 @@ regenerate: clean
 serve:
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
 
-devserver:
+devserver: stopserver
 	$(BASEDIR)/develop_server.sh restart
 
 stopserver:
