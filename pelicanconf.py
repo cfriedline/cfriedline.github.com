@@ -98,7 +98,7 @@ EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path':'theme/css/custom.css'}
     }
 
-BOOTSTRAP_THEME = "flatlysrc"
+BOOTSTRAP_THEME = "simplex"
 
 CUSTOM_CSS = "theme/css/custom.css"
 
@@ -118,9 +118,9 @@ TWITTER_WIDGET_ID = "493588924690747392"
 
 TWITTER_CARDS = True
 
-GITHUB_USER = "cfriedline"
+#GITHUB_USER = "cfriedline"
 
-GITHUB_REPO_COUNT = 5
+#GITHUB_REPO_COUNT = 5
 
 DISPLAY_CATEGORIES_ON_SIDEBAR = False
 
