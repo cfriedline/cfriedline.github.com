@@ -119,7 +119,7 @@ As with most Software Carpentry bootcamps, we set up and monitored
 an [Etherpad](https://swcarpentry.etherpad.mozilla.org/2014-08-21-upenn?). I thought
 this was particularly effective, especially given the room setup.
 
-![swc classroom image](/images/swc_upenn.png)
+<img src="/images/swc_upenn.png" width="500px")
 
 Unfortunately, what I alluded to earlier about some of things not
 coming together as they normally would have given more time, is that
