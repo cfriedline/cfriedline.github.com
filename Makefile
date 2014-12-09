@@ -55,7 +55,7 @@ submodule:
 
 travis: publish
 	ghp-import $(OUTPUTDIR)
-	git rm origin
+	git remote remove origin
 	git remote add origin https://cfriedline:${GH_TOKEN}/cfriedline/cfriedline.github.com
 	git push origin gh-pages:master
 
