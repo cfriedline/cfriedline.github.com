@@ -54,9 +54,9 @@ submodule:
 	git submodule update --recursive	
 
 travis: publish
-	ghp-import -m "Travis build $TRAVIS_BUILD_NUMBER" $(OUTPUTDIR)
+	ghp-import -m "Travis build ${TRAVIS_BUILD_NUMBER}" $(OUTPUTDIR)
 	git remote remove origin
 	git remote add origin https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git
-	git push origin gh-pages:master
+	git push -f origin gh-pages:master
 
 .PHONY: html help clean regenerate devserver publish github submodule
