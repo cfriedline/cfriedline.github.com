@@ -4,7 +4,7 @@ Tags: talks, nsf, science, math, evolution
 
 <a href=http://iss.schoolwires.com/Domain/3495 border=0 target=_new>
 <img src=http://iss.schoolwires.com/cms/lib4/NC01000579/Centricity/Template/3//logos/cctl.jpg
-width="50%">
+width="500px">
 </a>
 
 Or, I suppose I should title this "Evolution of the trees of
