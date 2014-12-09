@@ -64,6 +64,7 @@ DISQUS_SITENAME = u'blog-cfriedline'
 TWITTER_USERNAME = u'noituloveand'
 
 GOOGLE_ANALYTICS = u'UA-42131442-1'
+
 THEME = "pelican-bootstrap3"
 
 PLUGIN_PATHS = ['pelican-plugins']
