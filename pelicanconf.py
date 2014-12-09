@@ -94,8 +94,7 @@ STATIC_PATHS = ['extra/CNAME',
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/google34b2553a47731679.html': {'path': 'google34b2553a47731679.html'},
-    'extra/custom.css': {'path':'theme/css/custom.css'}
-    }
+   }
 
 BOOTSTRAP_THEME = "simplex"
 
