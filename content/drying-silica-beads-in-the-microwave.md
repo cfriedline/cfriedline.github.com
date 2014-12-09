@@ -15,7 +15,7 @@ in bulk with an indicator: OITND (Orange is the New Dry). Actually, no
 one actually knows what the chemical is (lies!), but when it's wet, it
 loses it's color. Good enough for us.
 
-<img src="/images/silica_bulk.jpg">
+<img src="/images/silica_bulk.jpg" width="500px">
 
 When you put pine needles into 15 ml tubes containing about 6 ml of
 gel beads, it's only a matter of time, due to continued transpiration,
