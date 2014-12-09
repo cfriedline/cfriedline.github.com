@@ -21,4 +21,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = u'blog-cfriedline'
+
+DISQUS_DISPLAY_COUNTS = True
+
 GOOGLE_ANALYTICS = u'UA-42131442-1'

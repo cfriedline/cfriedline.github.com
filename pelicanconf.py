@@ -45,7 +45,7 @@ SOCIAL = (
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 TYPOGRIFY = True
 
@@ -61,11 +61,9 @@ ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 
 DISQUS_SITENAME = u'blog-cfriedline'
-
 TWITTER_USERNAME = u'noituloveand'
 
 GOOGLE_ANALYTICS = u'UA-42131442-1'
-
 THEME = "pelican-bootstrap3"
 
 PLUGIN_PATHS = ['pelican-plugins']
@@ -105,8 +103,6 @@ DISPLAY_BREADCRUMBS = True
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 
 DISPLAY_TAGS_INLINE = True
-
-DISQUS_DISPLAY_COUNTS = True
 
 CC_LICENSE = "CC-BY"
 
