@@ -7,7 +7,7 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-GIT_MESSAGE="deploy to GitHub pages"
+GIT_MESSAGE="Manual deploy to GitHub pages [ci skip]"
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
@@ -47,6 +47,7 @@ publish:
 
 
 github: publish
+	git branch -D gh-pages
 	ghp-import -m $(GIT_MESSAGE) $(OUTPUTDIR)
 	git push -f origin gh-pages:master
 	git push
