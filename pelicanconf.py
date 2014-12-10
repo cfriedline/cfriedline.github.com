@@ -85,10 +85,7 @@ SITEMAP = {
 }
 
 STATIC_PATHS = ['extra/CNAME',
-                'extra/google34b2553a47731679.html',
-                'images',
-                'extra/bootstrap.flatlysrc.min.css',
-                'extra/custom.css']
+                'images']
 
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
