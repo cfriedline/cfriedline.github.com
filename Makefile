@@ -7,7 +7,7 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-GIT_MESSAGE="Manual deploy to GitHub pages [ci skip]"
+GIT_MESSAGE="Manual deploy to GitHub pages"
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
