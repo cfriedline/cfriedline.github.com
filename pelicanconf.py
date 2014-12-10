@@ -60,7 +60,6 @@ PDF_GENERATOR = False
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 
-DISQUS_SITENAME = u'blog-cfriedline'
 TWITTER_USERNAME = u'noituloveand'
 
 GOOGLE_ANALYTICS = u'UA-42131442-1'
