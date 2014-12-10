@@ -18,7 +18,7 @@ time, become part of their culture over two decades ago.
 Started in the early 90's, arXiv is currently housed at
 [Cornell University](http://www.cornell.edu) and currently serves the fields of
 Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative
-Finance and Statistics.  As of today, it provides open access to 995,193
+Finance, and Statistics.  As of today, it provides open access to 995,193
 e-prints, not shabby at all considering that only 306 papers were submitted in
 1991, the first year. Though there are other minor players in the game, the main
 additional preprint servers are: [bioRxiv](http://www.biorxiv.org),
