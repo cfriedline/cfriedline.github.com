@@ -29,8 +29,8 @@ Now, if you're looking for a thorough review of preprint culture in biology,
 this post will not be the place. There have been others who invested the time
 and energy to do that, and if you're interested in what others have to say (and
 you should be), There are links at the <a href="#links">bottom of this post</a>,
-**what this post will be about** is a recent experience I had at
-[EvolFri](http://evolfri.blogspot.com)
+**what this post will be about** is a recent preprint experience I had at
+[EvolFri](http://evolfri.blogspot.com).
 
 ##The reading
 
