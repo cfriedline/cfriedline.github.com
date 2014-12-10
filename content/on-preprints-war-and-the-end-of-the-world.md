@@ -102,7 +102,7 @@ forward. Lobby with colleagues in your department. Meet with your colleagues in
 Physics. Come together as a community and make those above us, at least in
 title, understand why this part of your 50% service is valuable and rewardable.
 
-Preprint repositories can help, too. In addition to the lobbying, blogging,
+**Preprint repositories can help, too**. In addition to the lobbying, blogging,
 and publishing that they already do, providing a way to validate and query
 contributions of outside reviewers/commentors would be a great first step, so
 when Dr. Friedline says he reviewed 365 pre-prints last year, his boss can
