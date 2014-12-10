@@ -60,6 +60,6 @@ travis: publish
 	ghp-import -m "Travis build ${TRAVIS_BUILD_NUMBER}" $(OUTPUTDIR)
 	git remote remove origin
 	@git remote add origin https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git
-	@git push -f origin gh-pages:master
+	@git push -f origin gh-pages:master &> /dev/null
 
 .PHONY: html help clean regenerate devserver publish github submodule travis
