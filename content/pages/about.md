@@ -47,4 +47,4 @@ five years until 2007.  After working for these and other companies, as both sal
 I came to the realization that I could do more with my life and contribute back to society in other ways.  I quit IT, 
 had a retirement party, and continued down the path of academia.
 
-For more details, you can check out my [CV](https://www.dropbox.com/s/qcn29anrs4i366d/friedline_cv.pdf?dl=0).
+For more details, you can check out my [CV](https://www.dropbox.com/s/ga7nl5os6lv2y9a/friedline_cv_clean.pdf?dl=0).
