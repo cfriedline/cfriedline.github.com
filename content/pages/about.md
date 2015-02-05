@@ -1,5 +1,6 @@
 Title: About
 
+Slug: about
 **Now**  
 
 I am currently a postdoc in [Andrew Eckert](http://eckertlab.blogspot.com)'s lab at 
@@ -46,4 +47,4 @@ five years until 2007.  After working for these and other companies, as both sal
 I came to the realization that I could do more with my life and contribute back to society in other ways.  I quit IT, 
 had a retirement party, and continued down the path of academia.
 
-For more details, you can check out my [CV](https://drive.google.com/file/d/0B3q53L7FjDi8SkJWWEVMU2NMRzQ/edit?usp=sharing).
+For more details, you can check out my [CV](https://www.dropbox.com/s/qcn29anrs4i366d/friedline_cv.pdf?dl=0).
