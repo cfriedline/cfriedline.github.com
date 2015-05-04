@@ -1,32 +1,32 @@
 Title: Publications
 
-* Friedline, C. J., B. M. Lind, E. M. Hobson, D. E. Harwood, A. D. Mix, P. E. Maloney, and A. J. Eckert. 2015. The genetic architecture of local adaptation I: the genomic landscape of foxtail pine (Pinus balfouriana Grev. & Balf.) as revealed from a high-density linkage map. Tree Genetics & Genomes 11:49.
+* **Friedline, C. J.**, B. M. Lind, E. M. Hobson, D. E. Harwood, A. D. Mix, P. E. Maloney, and A. J. Eckert. 2015. The genetic architecture of local adaptation I: the genomic landscape of foxtail pine (Pinus balfouriana Grev. & Balf.) as revealed from a high-density linkage map. Tree Genetics & Genomes 11:49.
 
-* Caplins, S. A., Friedline, C. J., Brown, B. L. & Turbeville,
+* Caplins, S. A., **Friedline, C. J.**, Brown, B. L. & Turbeville,
 J. M. Microsatellites of the self-compatible nemertean *Prosorhochmus americanus*
 (Hoplonemertea). Conservation Genet Resour 1–3 (2014).
   
-* Gilbreath, J. J., Semino-Mora, C., Friedline, C. J., Liu, H., Bodi, K. L.,
+* Gilbreath, J. J., Semino-Mora, C., **Friedline, C. J.**, Liu, H., Bodi, K. L.,
 McAvoy, T. J., Francis, J., Nieroda, C., Sardi, A., Dubois, A., Lazinski, D. W.,
 Camilli, A., Testerman, T. L. & Merrell, D. S. A core microbiome associated with
 the peritoneal tumors of *Pseudomyxoma peritonei*.  Orphanet Journal of Rare
 Diseases 8, 105 (2013).
 
 * Fettweis, J. M., Serrano, M. G., Sheth, N. U., Mayer, C. M., Glascock, A. L.,
-Brooks, J. P., Jefferson, K. K., Consortium, V. M. & Buck, G. A.  Species-level
+Brooks, J. P., Jefferson, K. K., **Consortium, V. M.** & Buck, G. A.  Species-level
 classification of the vaginal microbiome. BMC genomics 13, S17. issn:1471-2164
 (2012).
 
-* Friedline, C. J., Franklin, R. B., McCallister, S. L. & Rivera, M. C.
+* **Friedline, C. J.**, Franklin, R. B., McCallister, S. L. & Rivera, M. C.
 Bacterial assemblages of the eastern Atlantic Ocean reveal both vertical and
 latitudinal biogeographic signatures. Biogeosciences 9, 2177–2193 (2012).
 
 * Harwich, M. D., Serrano, M. G., Fettweis, J. M., Alves, J. M., Reimers, M. A.,
-Consortium, V. M., Buck, G. A. & Jefferson, K. K. Genomic sequence analysis and
+**Consortium, V. M.**, Buck, G. A. & Jefferson, K. K. Genomic sequence analysis and
 characterization of *Sneathia amnii* sp. nov.  BMC genomics 13,S4. issn:1471-2164
 (2012).
 
-* Friedline, C. J., Zhang, X. & Zehner, Z. FindSUMO: A PSSM-Based Method for
+* **Friedline, C. J.**, Zhang, X. & Zehner, Z. FindSUMO: A PSSM-Based Method for
 Sumoylation Site Prediction. Advanced Intelligent Computing Theories and
 Applications. With Aspects of Artificial Intelligence. Lecture Notes in Computer
 Science Volume 5227 (2008).
