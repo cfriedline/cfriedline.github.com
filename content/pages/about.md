@@ -1,6 +1,5 @@
 Title: About
 
-Slug: about
 **Now**  
 
 I am currently a postdoc in [Andrew Eckert](http://eckertlab.blogspot.com)'s lab at 
