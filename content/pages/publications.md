@@ -26,11 +26,6 @@ Consortium, V. M., Buck, G. A. & Jefferson, K. K. Genomic sequence analysis and
 characterization of *Sneathia amnii* sp. nov.  BMC genomics 13,S4. issn:1471-2164
 (2012).
 
-* Fettweis, J. M., Alves, J. P., Borzelleca, J. F., Brooks, J. P., Friedline,
-C. J., Gao, Y., Gao, X., Girerd, P., Harwich, M. D. & Hendricks, S. L. The
-Vaginal Microbiome: Disease, Genetics and the Environment. Nature Precedings
-(2011).
-
 * Friedline, C. J., Zhang, X. & Zehner, Z. FindSUMO: A PSSM-Based Method for
 Sumoylation Site Prediction. Advanced Intelligent Computing Theories and
 Applications. With Aspects of Artificial Intelligence. Lecture Notes in Computer
