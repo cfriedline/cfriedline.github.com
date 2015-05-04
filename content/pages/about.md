@@ -1,6 +1,6 @@
 Title: About
 
-tl;dr: My [CV](https://www.dropbox.com/s/ga7nl5os6lv2y9a/friedline_cv_clean.pdf?dl=0)
+**tl;dr:** My [CV](https://www.dropbox.com/s/ga7nl5os6lv2y9a/friedline_cv_clean.pdf?dl=0)
 
 **Now**  
 
