@@ -1,5 +1,9 @@
 Title: Publications
 
+Slug: publications
+
+* Friedline, C. J., B. M. Lind, E. M. Hobson, D. E. Harwood, A. D. Mix, P. E. Maloney, and A. J. Eckert. 2015. The genetic architecture of local adaptation I: the genomic landscape of foxtail pine (Pinus balfouriana Grev. & Balf.) as revealed from a high-density linkage map. Tree Genetics & Genomes 11:49.
+
 * Caplins, S. A., Friedline, C. J., Brown, B. L. & Turbeville,
 J. M. Microsatellites of the self-compatible nemertean *Prosorhochmus americanus*
 (Hoplonemertea). Conservation Genet Resour 1–3 (2014).
