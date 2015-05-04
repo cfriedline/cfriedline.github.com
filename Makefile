@@ -1,5 +1,5 @@
 PY=python
-PELICAN=pelican
+PELICAN=/Users/chris/anaconda/envs/conda/bin/pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
