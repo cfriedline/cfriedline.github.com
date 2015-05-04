@@ -2,6 +2,8 @@ PY=python
 PELICAN=/Users/chris/anaconda/envs/conda/bin/pelican
 PELICANOPTS=
 
+GHP-IMPORT=/Users/chris/anaconda/envs/conda/bin/ghp-import
+
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
@@ -48,7 +50,7 @@ publish:
 
 github: publish
 	git branch -D gh-pages
-	ghp-import -m $(GIT_MESSAGE) $(OUTPUTDIR)
+	$(GHP-IMPORT) -m $(GIT_MESSAGE) $(OUTPUTDIR)
 	git push -f origin gh-pages:master
 	git push
 
@@ -58,7 +60,7 @@ submodule:
 travis: publish
 	git config --global user.name "Chris Friedline"
 	git config --global user.email cfriedline@vcu.edu
-	ghp-import -m "Travis build ${TRAVIS_BUILD_NUMBER}" $(OUTPUTDIR)
+	$(GHP-IMPORT) -m "Travis build ${TRAVIS_BUILD_NUMBER}" $(OUTPUTDIR)
 	git remote remove origin
 	@git remote add origin https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git
 	@git push -f origin gh-pages:master &> /dev/null
