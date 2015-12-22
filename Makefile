@@ -1,8 +1,8 @@
 PY=python
-PELICAN=/Users/chris/anaconda/envs/py34/bin/pelican
+PELICAN=pelican
 PELICANOPTS=
 
-GHP-IMPORT=/Users/chris/anaconda/envs/py34/bin/ghp-import
+GHP-IMPORT=ghp-import
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
