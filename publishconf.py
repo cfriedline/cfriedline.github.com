@@ -26,3 +26,5 @@ DISQUS_SITENAME = u'blog-cfriedline'
 DISQUS_DISPLAY_COUNTS = True
 
 GOOGLE_ANALYTICS = u'UA-42131442-1'
+
+TIMEZONE = 'America/New_York'
