@@ -1,8 +1,8 @@
 PY=python
-PELICAN=/Users/chris/anaconda/envs/conda/bin/pelican
+PELICAN=/Users/chris/anaconda/envs/py34/bin/pelican
 PELICANOPTS=
 
-GHP-IMPORT=/Users/chris/anaconda/envs/conda/bin/ghp-import
+GHP-IMPORT=/Users/chris/anaconda/envs/py34/bin/ghp-import
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
@@ -36,7 +36,7 @@ clean:
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-devserver: 
+devserver:
 	$(BASEDIR)/develop_server.sh restart
 
 stopserver:
@@ -55,7 +55,7 @@ github: publish
 	git push
 
 submodule:
-	git submodule update --recursive	
+	git submodule update --recursive
 
 travis: publish
 	git config --global user.name "Chris Friedline"
