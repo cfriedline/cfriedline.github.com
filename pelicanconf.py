@@ -84,6 +84,7 @@ STATIC_PATHS = ['extra/CNAME',
 
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
+    'extra/favicon.ico': {'path': 'favicon.ico'}
 }
 
 BOOTSTRAP_THEME = "simplex"
