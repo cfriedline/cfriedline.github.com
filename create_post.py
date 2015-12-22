@@ -6,7 +6,7 @@ import os
 
 def new_post(title, slug=None, post_type="post"):
     if slug is None:
-        slug = slugify.slugify(u'%s' % title)
+        slug = slugify.slugify(u'%s' % title, to_lower=True)
     now = datetime.datetime.now()
     post_date = now.strftime("%Y-%m-%d %H:%M")
 
