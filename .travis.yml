@@ -3,10 +3,9 @@ branches:
   - source
 language: python
 python:
-- 2.7
+- 3.4
 install:
 - pip install -r requirements.txt --use-mirrors
-- pip install https://github.com/davisp/ghp-import/archive/master.zip
 script:
 - make travis
 notifications:
