@@ -55,7 +55,7 @@ github: publish
 	git push
 
 submodule:
-	git submodule update --recursive
+	git submodule update --init --recursive
 
 travis: publish
 	git config --global user.name "Chris Friedline"
