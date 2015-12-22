@@ -1,6 +1,6 @@
 Date: 2014-12-08 22:37
 Title: Software Carpentry certified!
-Tags: swc, teaching
+Tags: swcarpentry, teaching
 
 This is a little late in getting up here, achievment having
 been unlocked last May, but better late than never.
