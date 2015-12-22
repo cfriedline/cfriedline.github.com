@@ -2,3 +2,5 @@ pelican
 Markdown
 fabric
 typogrify
+awesome-slugify
+ghp-import
