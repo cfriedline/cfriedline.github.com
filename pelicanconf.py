@@ -80,16 +80,17 @@ SITEMAP = {
 }
 
 STATIC_PATHS = ['extra/CNAME',
-                'images']
+                'images',
+                'extra/favicon.ico']
 
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
-    'extra/favicon.ico': {'path': 'favicon.ico'}
+    'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
 BOOTSTRAP_THEME = "simplex"
 
-CUSTOM_CSS = "theme/css/custom.css"
+# CUSTOM_CSS = "theme/css/custom.css"
 
 DISPLAY_BREADCRUMBS = True
 
