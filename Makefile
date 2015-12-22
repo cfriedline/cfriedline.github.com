@@ -48,7 +48,7 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 
-github: publish
+github: clean html
 	git branch -D gh-pages
 	$(GHP-IMPORT) -m $(GIT_MESSAGE) $(OUTPUTDIR)
 	git push -f origin gh-pages:master
@@ -57,7 +57,7 @@ github: publish
 submodule:
 	git submodule update --init --recursive
 
-travis: publish
+travis: clean html
 	git config --global user.name "Chris Friedline"
 	git config --global user.email cfriedline@vcu.edu
 	$(GHP-IMPORT) -m "Travis build ${TRAVIS_BUILD_NUMBER}" $(OUTPUTDIR)
