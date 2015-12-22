@@ -18,30 +18,25 @@ DEFAULT_DATE = 'fs'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 
 # Blogroll
-LINKS =  (
-('Eckert Lab', 'http://eckertlab.blogspot.com/'),
-('Rivera Lab', 'http://riveralab.bio.vcu.edu/'),
-('VCU Biology', 'http://www.biology.vcu.edu'),
-('Evol.Fri', 'http://evolfri.blogspot.com'),
-('Software Carpentry', 'http://www.software-carpentry.org'),
-('The Tree of Life', 'http://phylogenomics.blogspot.com'),
-('Living in an Ivory Basement', 'http://ivory.idyll.org/blog'),
-('The Loom', 'http://phenomena.nationalgeographic.com/blog/the-loom/'),
-('Not Exactly Rocket Science', 'http://phenomena.nationalgeographic.com/blog/not-exactly-rocket-science/'),
-('Dechronization', 'http://treethinkers.blogspot.com'),
-('TreeThinkers', 'http://treethinkers.org/blog/'),
-("Haldane's Sieve", 'http://haldanessieve.org'),
-)
+LINKS = (('Eckert Lab', 'http://eckertlab.blogspot.com/'),
+         ('Rivera Lab', 'http://riveralab.bio.vcu.edu/'),
+         ('VCU Biology', 'http://www.biology.vcu.edu'),
+         ('Evol.Fri', 'http://evolfri.blogspot.com'),
+         ('Software Carpentry', 'http://www.software-carpentry.org'),
+         ('The Tree of Life', 'http://phylogenomics.blogspot.com'),
+         ('Living in an Ivory Basement', 'http://ivory.idyll.org/blog'),
+         ('The Loom', 'http://phenomena.nationalgeographic.com/blog/the-loom/'),
+         ('Not Exactly Rocket Science', 'http://phenomena.nationalgeographic.com/blog/not-exactly-rocket-science/'),
+         ('Dechronization', 'http://treethinkers.blogspot.com'),
+         ('TreeThinkers', 'http://treethinkers.org/blog/'),
+         ("Haldane's Sieve", 'http://haldanessieve.org'),)
 
 # Social widget
-SOCIAL = (
-('Bitbucket', 'http://www.bitbucket.org/cfriedline'),
-('Github', 'http://github.com/cfriedline'),
-('Twitter', 'http://twitter.com/noituloveand'),
-('LinkedIn', 'http://www.linkedin.com/in/friedline'),
-)            
-            
-            
+SOCIAL = (('Bitbucket', 'http://www.bitbucket.org/cfriedline'),
+          ('Github', 'http://github.com/cfriedline'),
+          ('Twitter', 'http://twitter.com/noituloveand'),
+          ('LinkedIn', 'http://www.linkedin.com/in/friedline'),)
+
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -67,7 +62,8 @@ GOOGLE_ANALYTICS = u'UA-42131442-1'
 THEME = "pelican-bootstrap3"
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['sitemap','related_posts','latex']
+
+PLUGINS = ['sitemap', 'related_posts', 'latex']
 
 SITEMAP = {
     'format': 'xml',
@@ -89,7 +85,7 @@ STATIC_PATHS = ['extra/CNAME',
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/google34b2553a47731679.html': {'path': 'google34b2553a47731679.html'},
-   }
+}
 
 BOOTSTRAP_THEME = "simplex"
 
@@ -109,9 +105,9 @@ TWITTER_WIDGET_ID = "493588924690747392"
 
 TWITTER_CARDS = True
 
-#GITHUB_USER = "cfriedline"
+# GITHUB_USER = "cfriedline"
 
-#GITHUB_REPO_COUNT = 5
+# GITHUB_REPO_COUNT = 5
 
 DISPLAY_CATEGORIES_ON_SIDEBAR = False
 
