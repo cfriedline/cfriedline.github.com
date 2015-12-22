@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Christopher J. Friedline'
 SITENAME = u'Christopher J. Friedline, Ph.D.'
 SITESUBTITLE = u"will blog for tenure..."
-SITEURL = 'https://chris.friedline.net'
+SITEURL = 'http://chris.friedline.net'
 
 READERS = {'html': None}
 
@@ -61,9 +61,9 @@ GOOGLE_ANALYTICS = u'UA-42131442-1'
 
 THEME = "pelican-bootstrap3"
 
-PLUGIN_PATHS = ['pelican-plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 
-PLUGINS = ['sitemap', 'related_posts', 'latex']
+PLUGINS = ['sitemap', 'related_posts', 'latex', 'tag_cloud']
 
 SITEMAP = {
     'format': 'xml',
@@ -114,4 +114,6 @@ DISPLAY_CATEGORIES_ON_SIDEBAR = False
 
 PYGMENTS_STYLE = "solarizeddark"
 
-RELATED_POSTS_MAX = 3
+RELATED_POSTS_MAX = 5
+
+TAG_CLOUD_STEPS = 4
