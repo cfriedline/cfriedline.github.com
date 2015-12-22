@@ -57,7 +57,7 @@ github: clean html
 submodule:
 	git submodule update --init --recursive
 
-travis:
+travis: html
 	git config --global user.name "Chris Friedline"
 	git config --global user.email cfriedline@vcu.edu
 	$(GHP-IMPORT) -m "Travis build ${TRAVIS_BUILD_NUMBER}" $(OUTPUTDIR)
