@@ -3,11 +3,11 @@ Title: Data Carpentry Workshop at Rutgers
 Tags: python,datacarpentry,swcarpentry,teaching
 Status: draft
 
-# Data Carpentry Workshop at Rutgers University
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Intro
 
-This December 15--16, I had the opportunity to be one of two instructors at the [Data Carpentry](http://www.datacarpentry.org) bootcap at Rutgers University.  In this post, I want to outline my my experience as an instructor (my first DC bootcamp), compare it a bit to my last teaching role with [Software Carpentry](http://www.softwarecarpentry.org) at Penn, and make a few generalizations about how I think maybe we should think about future bootcamps with DC, and maybe SC, as well.
+This December 15--16, I had the opportunity to be one of two instructors at the [Data Carpentry](http://www.datacarpentry.org) bootcap at Rutgers University ([#datacRU](http:///www.twitter.com/#datacRU)).  In this post, I want to outline my my experience as an instructor (my first DC bootcamp), compare it a bit to my last teaching role with [Software Carpentry](http://www.softwarecarpentry.org) at Penn, and make a few generalizations about how I think maybe we should think about future bootcamps with DC, and maybe SC, as well.
 
 ## Setup
 
@@ -38,6 +38,10 @@ This schedule met the criteria above and though Leigh and I didn't list this sch
 ## Day 1
 
 ### Morning
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Beautiful day for some data carpentry! <a href="https://twitter.com/RutgersU">@RutgersU</a> <a href="https://twitter.com/swcarpentry">@swcarpentry</a> <a href="https://twitter.com/datacarpentry">@datacarpentry</a> <a href="https://twitter.com/hashtag/datacRU?src=hash">#datacRU</a> <a href="https://t.co/fvYGR4l6DQ">pic.twitter.com/fvYGR4l6DQ</a></p>&mdash; Tess Jeffers (@JeffersTess) <a href="https://twitter.com/JeffersTess/status/676785225045798912">December 15, 2015</a></blockquote>
+
+
 
 We got set up early, Post-Its deployed (3M stock checked), and everyone showed up bright-eyed and ready to go.  Coffee was also there in great abundance and I was more than grateful to up increase the caffeine concentration in my bloodstream to normal (read: excessive) levels before getting started.  Up first was me with Open Refine, after a brief intro by Leigh.
 
