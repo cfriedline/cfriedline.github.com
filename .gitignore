@@ -9,3 +9,8 @@ cache
 [#]*.*[#]
 work
 *.sublime-workspace
+.ipynb_checkpoints
+_posts
+_layouts
+_includes
+__pycache__
