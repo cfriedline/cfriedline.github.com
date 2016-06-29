@@ -81,11 +81,13 @@ SITEMAP = {
 
 STATIC_PATHS = ['extra/CNAME',
                 'images',
-                'extra/favicon.ico']
+                'extra/favicon.ico',
+                'extra/keybase.txt']
 
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/keybase.txt': {'path': 'keybase.txt'}
 }
 
 BOOTSTRAP_THEME = "simplex"
