@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/cfriedline
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://chris.friedline.net
+  * I am cfriedline (https://keybase.io/cfriedline) on keybase.
+  * I have a public key with fingerprint 3C2C 239D 0900 DDD4 A400  947B 30AF D124 9085 9AFF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101433a6083b8e962640d24d3c73ea3f0148404d1dc1c132f0bed828c160f6a6ec40a",
+            "fingerprint": "3c2c239d0900ddd4a400947b30afd12490859aff",
+            "host": "keybase.io",
+            "key_id": "30afd12490859aff",
+            "kid": "0101433a6083b8e962640d24d3c73ea3f0148404d1dc1c132f0bed828c160f6a6ec40a",
+            "uid": "712b760ddd1b5841d950c5e76b53eb19",
+            "username": "cfriedline"
+        },
+        "service": {
+            "hostname": "chris.friedline.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467172649,
+    "expire_in": 157680000,
+    "prev": "ce403b7b24f5ed7445aad243d55229d3269f2e7638810ef136ddbb6bda65cd40",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMNCAnicrZJtUBVVHMZBDIJIqIkXERnZSeXlRmffd6/Si0OK2lBgjeTc6ba75+y9
+C9e917sXhAAL0FK0IXPsTkwE4YRKMJoa8EEJ0AEkwFBTJHFIqkGCJAcoKKNdJvvU
+x/bLmT3n9zznef5zLjzq5xPkC070P/n+nop536/bqnJ8tmob4gsw0QnzMXMBlo0W
+FuSASPNYsxWImTGAA5wiSYEBHClyiGcIhgKQoCApsSQSSFk/5ihAQRxKuISThAxE
+BDmCk3AGyIzAIIkCAmbCZEW1IbfLrage3ZaUCIkgeQh4ACCElEABwFOsSAJBhjhB
+8YCjeUGWdaHdqRkKPZwoaChJcep7+o91Id5/8P9z7pwFOxYnRJYxouIizVE45Gkg
+0YhlRJpEIs4boIbcqrAd6bQkuxUEHYqKsCITpu/nKhIyRmt0ecDY3YqW9C+YpCKP
+buJyOz1OyenQAbvH4zIbek++yxDsRKL1HyurqKhQn6cuyEVuTXGqmBnXScmjGN44
+xbA4qxfmTRjKcyluZFUMgmYZDuifcQ3KNTIgCpAiKxKUTCPIUhQtCPqMSEjTBMFD
+kmB4mdBLkhyHAyTjJAOhKDIiFBhaghTAjHI7VCdmpvWYgk231BSbKnhy3Hrz9jbL
+Yh/fIB//hxYZ78wnKDD0weuLDwmZt3UnZhyLOPvhW/bXpZGC1f0dG6O5a4VP/Lxv
+5czdReMVJUJ109D5h/3DjpQ6l82cTN67qSl1IjaKnfpxY02yZeaxvImxYK25DfYX
+3tu/xnWofzKzbLwiYnHk1m9M9QVL+EtzMVzs1W5+oC7t4tEGrEb4Dd6/vTl273Bv
+0Z0/1thLd68MCH7hdMue1bmnGhyjPYPv3WeoLXO7p889u39tFZ2zq7HmjdDP5pis
+3i7i1nEmsK8lIvtA7Jz9ZdUXv3nrq5jKYkt4a7N3lV8oWZIgee8VXd/lynFqO18M
+sJrSyVS/knFieLL5ysj5NMycN/u7uefjwMa3A/uuDMWEv1Lv33eg1pu8Ld72auHh
+m2M/VV6YTrdd23Z5eAVnCc5+vvf65YYj3UWznRNXE96EuGnpJwOz76RltYX9YKuu
+CqirTik/VD+b+X1dX1nyVGX7F9GJUeu857q2wMbaUvftSyuI0+ExLb9un/rO9Xjq
+WeH48qTPCx8ZJALCRpetiws4tvxEuWUtnZ/ASEuntKPrW54aCxuKqmjoeg3v+nP9
+yYtYVmdPNCPfONV+ZlPT9LtLPu2KH+x4OrHjg1+kzoEd39bWWRszMlHa6DN4QvFf
+8kvekVUplCU67/CZg2AoYnJeTIj0DylT++Iq/W4UfvnRvri7k8XlrcW2jNTWIMfs
+6OYBJsWR11s6cicyJP25vwG7LcUa
+=zYnK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cfriedline
+
+==================================================================
