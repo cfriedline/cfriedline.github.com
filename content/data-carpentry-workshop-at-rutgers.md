@@ -33,7 +33,7 @@ As I was driving to NJ on 12/14, Leigh had flight issues, and previous-night, we
 * Python data analysis (Chris)
 * SQL (Leigh)
 
-This schedule met the criteria above and though Leigh and I didn't list this schedule out explicitly, in my exhausted brain this is what I thought would happen.  I got into the hotel that evening, was treated exceptionally well, found out that my parking, breakfasts, and Internet were taken care of under the Rutgers agreement with the hotel, and off to bed I went.  I woke up very early that morning, put the final (read: entire) touches on my Open Refine lecture, met Leigh for quick bagel and coffee, and off to Rutgers we went.
+This schedule met the criteria above and though Leigh and I didn't list this schedule out explicitly, in my exhausted brain this is what I thought would happen.  I got into the hotel that evening, was treated exceptionally well, found out that my parking, breakfasts, and Internet were taken care of under the Rutgers agreement with the hotel, and off to bed I went after a quick Bourbon.  I woke up very early that morning, put the final (read: entire) touches on my Open Refine lecture, met Leigh for quick bagel and coffee, and off to Rutgers we went.
 
 ## Day 1
 
@@ -56,6 +56,10 @@ Overall, I tried to incorporate some of my own ideas about how Open Refine could
 ### Afternoon
 
 Leigh started the afternoon with an introduction to Python, first using the [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) then getting into the [IPython](http:www.ipython.org)/[Jupyter](http://www.jupyter.org) Notebeook.  For not having prepared, I thought that Leigh did a fine job with covering the material that they needed to know, though at times things were a bit disheveled. Certainly I would have done things differently, but this is exactly why i wanted to make sure that our students had two different Python instructors, so that we could complement each other. She stuck to the Post-It philosophy, slowed and re-explained when the red notes went up, and covered the material relevant to the challenges.  During the challenges, I was also running 'round and helping.  There were a number of students who had done some programming in the past, and seemed to accept Python into their hearts as much as could be expected.
+
+Leigh had decided to go until 4 P.M. that day instead of the original 5 P.M. Since the students had some exposure to the IPython notebook, I offered to do a little tutorial on IPython notebook and some tricks/tips I've picked up along the way.
+
+
 
 
 
