@@ -46,6 +46,8 @@ TYPOGRIFY = True
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
+DISPLAY_PAGES_ON_MENU = False
+
 DEFAULT_CATEGORY = u'Blog'
 
 MENUITEMS = (
@@ -68,7 +70,7 @@ THEME = "../pelican-themes/pelican-bootstrap3"
 
 PLUGIN_PATHS = ['../pelican-plugins']
 
-PLUGINS = ['sitemap', 'related_posts', 'latex', 'tag_cloud']
+PLUGINS = ['sitemap', 'related_posts', 'latex', 'tag_cloud', 'i18n_subsites']
 
 SITEMAP = {
     'format': 'xml',
@@ -124,3 +126,5 @@ PYGMENTS_STYLE = "solarizeddark"
 RELATED_POSTS_MAX = 5
 
 TAG_CLOUD_STEPS = 4
+
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
