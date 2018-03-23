@@ -2,7 +2,7 @@ Date: 2014-09-30 22:02
 Title: Software Carpentry at Penn Redux
 Tags: swcarpentry, teaching, sql, python
 
-##Intro and shell (day 1)
+## Intro and shell (day 1)
 
 This post has been a long time coming, since
 [R. David Murray](http://www.twitter.com/rdavidmurray) and I taught
