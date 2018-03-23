@@ -18,18 +18,18 @@ DEFAULT_DATE = 'fs'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 
 # Blogroll
-LINKS = (('Eckert Lab', 'http://eckertlab.blogspot.com/'),
-         ('Rivera Lab', 'http://riveralab.bio.vcu.edu/'),
-         ('VCU Biology', 'http://www.biology.vcu.edu'),
-         ('Evol.Fri', 'http://evolfri.blogspot.com'),
-         ('Software Carpentry', 'http://www.software-carpentry.org'),
-         ('The Tree of Life', 'http://phylogenomics.blogspot.com'),
-         ('Living in an Ivory Basement', 'http://ivory.idyll.org/blog'),
-         ('The Loom', 'http://phenomena.nationalgeographic.com/blog/the-loom/'),
-         ('Not Exactly Rocket Science', 'http://phenomena.nationalgeographic.com/blog/not-exactly-rocket-science/'),
-         ('Dechronization', 'http://treethinkers.blogspot.com'),
-         ('TreeThinkers', 'http://treethinkers.org/blog/'),
-         ("Haldane's Sieve", 'http://haldanessieve.org'),)
+LINKS = (
+    ('Eckert Lab', 'http://eckertlab.blogspot.com/'),
+    ('Rivera Lab', 'http://riveralab.bio.vcu.edu/'),
+    ('VCU Biology', 'http://www.biology.vcu.edu'),
+    ('Evol.Fri', 'http://evolfri.blogspot.com'),
+    ('Software Carpentry', 'http://www.software-carpentry.org'),
+    ('The Tree of Life', 'http://phylogenomics.blogspot.com'),
+    ('Living in an Ivory Basement', 'http://ivory.idyll.org/blog'),
+    ('The Loom', 'http://phenomena.nationalgeographic.com/blog/the-loom/'),
+    ('Dechronization', 'http://treethinkers.blogspot.com'),
+    ('TreeThinkers', 'http://treethinkers.org/blog/'),
+    ("Haldane's Sieve", 'http://haldanessieve.org'),)
 
 # Social widget
 SOCIAL = (('Bitbucket', 'http://www.bitbucket.org/cfriedline'),
