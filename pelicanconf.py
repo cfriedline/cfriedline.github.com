@@ -50,12 +50,10 @@ DISPLAY_PAGES_ON_MENU = False
 
 DEFAULT_CATEGORY = u'Blog'
 
-MENUITEMS = (
-('About', '/pages/about.html'),
-('Funding', '/pages/funding.html'),
-('Publications', '/pages/publications.html'),
-('Contact', '/pages/contact.html')
-)
+MENUITEMS = (('About', '/pages/about.html'),
+             ('Funding', '/pages/funding.html'),
+             ('Publications', '/pages/publications.html'),
+             ('Contact', '/pages/contact.html'))
 
 PDF_GENERATOR = False
 
