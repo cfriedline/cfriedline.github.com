@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
+<head>
+    <title>Software Carpentry at Penn Redux - Christopher J. Friedline, Ph.D.</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="canonical" href="../../../../../posts/2014/Sep/30/software-carpentry-at-penn-redux/">
+
+        <meta name="author" content="Christopher J. Friedline" />
+        <meta name="keywords" content="swcarpentry,teaching,sql,python" />
+        <meta name="description" content="Intro and shell (day 1) This post has been a long time coming, since R. David Murray and I taught the bootcamp on 8/21-22/2014. Sadly, I’ve been struggling with wrangling my own data, collaborators, going to NSF, planning sampling trips, helping to train the new undergrads in …" />
+
+        <meta property="og:site_name" content="Christopher J. Friedline, Ph.D." />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Software Carpentry at Penn Redux"/>
+        <meta property="og:url" content="../../../../../posts/2014/Sep/30/software-carpentry-at-penn-redux/"/>
+        <meta property="og:description" content="Intro and shell (day 1) This post has been a long time coming, since R. David Murray and I taught the bootcamp on 8/21-22/2014. Sadly, I’ve been struggling with wrangling my own data, collaborators, going to NSF, planning sampling trips, helping to train the new undergrads in …"/>
+        <meta property="article:published_time" content="2014-09-30" />
+            <meta property="article:section" content="Blog" />
+            <meta property="article:tag" content="swcarpentry" />
+            <meta property="article:tag" content="teaching" />
+            <meta property="article:tag" content="sql" />
+            <meta property="article:tag" content="python" />
+            <meta property="article:author" content="Christopher J. Friedline" />
+
+    <meta name="twitter:dnt" content="on">
+    <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@noituloveand">
+        <meta name="twitter:creator" content="@noituloveand">
+    <meta name="twitter:domain" content="../../../../..">
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="../../../../../theme/css/bootstrap.simplex.min.css" type="text/css"/>
+    <link href="../../../../../theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="../../../../../theme/css/pygments/solarizeddark.css" rel="stylesheet">
+        <link href="../../../../../theme/css/typogrify.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../../../theme/css/style.css" type="text/css"/>
+
+        <link href="../../../../../feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Christopher J. Friedline, Ph.D. ATOM Feed"/>
+
+
+
+        <link href="../../../../../feeds/blog.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Christopher J. Friedline, Ph.D. Blog ATOM Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="../../../../../" class="navbar-brand">
+Christopher J. Friedline, Ph.D.            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                    <li><a href="/pages/about.html">About</a></li>
+                    <li><a href="/pages/funding.html">Funding</a></li>
+                    <li><a href="/pages/publications.html">Publications</a></li>
+                    <li><a href="/pages/contact.html">Contact</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+            <ol class="breadcrumb">
+                <li><a href="../../../../.." title="Christopher J. Friedline, Ph.D."><i class="fa fa-home fa-lg"></i></a></li>
+                <li class="active">Software Carpentry at Penn&nbsp;Redux</li>
+            </ol>
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="../../../../../posts/2014/Sep/30/software-carpentry-at-penn-redux/"
+                       rel="bookmark"
+                       title="Permalink to Software Carpentry at Penn Redux">
+                        Software Carpentry at Penn&nbsp;Redux
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2014-09-30T22:02:00-04:00"> Tue 30 September 2014</time>
+    </span>
+
+
+
+
+
+<span class="label label-default">Tags</span>
+	<a href="../../../../../tag/swcarpentry.html">swcarpentry</a>
+        /
+	<a href="../../../../../tag/teaching.html">teaching</a>
+        /
+	<a href="../../../../../tag/sql.html">sql</a>
+        /
+	<a href="../../../../../tag/python.html">python</a>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <h2>Intro and shell (day&nbsp;1)</h2>
+<p>This post has been a long time coming, since
+<a href="http://www.twitter.com/rdavidmurray">R. David Murray</a> and I taught
+the <a href="http://swcarpentry.github.io/2014-08-21-upenn">bootcamp</a> on
+8/21-22/2014. Sadly, I&#8217;ve been struggling with wrangling my own data,
+collaborators, going to <span class="caps">NSF</span>, planning sampling trips, helping to train
+the new undergrads in the lab, and about 1000 other things since
+then. Luckily, no one reads my&nbsp;blog.</p>
+<p>The planning for this bootcamp came together very quickly, and I think
+all parties can agree that some things could have been tightened up a
+little bit. With that said, I think it went off really well. It was an
+amazing experience both as a scientist to be immersed in that
+stimulating of an environment and as an instructor having the good
+fortune of a body of students so excited and (dare I say) hungry for
+the material. I was extremely proud to be representing Software
+Carpentry, and I hope we did the name justice when all was said and&nbsp;done.</p>
+<p>If you&#8217;ve ready my <a href="/pages/about.html">bio</a>, you already know that I lived
+around the Philadelphia area for several years before moving to
+Richmond, <span class="caps">VA</span>. It was great to be back in the city and having dinner at
+old (<a href="http://www.monkscafe.com">Monk&#8217;s Cafe</a>) and new
+(<a href="http://crowandthepitcher.com">Crow and the Pitcher</a>) places. The
+folks at Penn were able to secure us great rooms at
+<a href="http://clubquarters.com/philadelphia">Club Quarters</a>, too, providing a
+great walk over to campus to begin and end the&nbsp;day.</p>
+<p>David and I arrived early on the first day in case anyone had issues
+with getting the required software up and going before we got
+started. No one really needed our help for this part, so we spent the
+time getting our laptops connected to the projector, finding the chalk
+(I love chalk!) for the boards, and planning the day. We settled on
+each teaching for 1/2 of each day with David handling Bash and Python
+and me up for git and <span class="caps">SQL</span>. I sent out a few tweets about this, but I
+feel like we (myself included) were all quite fortunate to have a core
+CPython maintainer going over shell and Python lessons. Having not
+taught a huge amount (by his own admission), I thought David delivered
+all of his lessons with an expected level of mastery. That afternoon,
+I taught the git material, but perhaps in a different way than&nbsp;before.</p>
+<h3>Cleaning example&nbsp;files</h3>
+<p>We needed to distribute the examples to the
+course participants, but when I went out to the bootcamp site, they
+already had the examples worked through in the lesson notebooks. As a
+quick hack, I set these up cleaned versions using another
+<a href="https://github.com/swcarpentry/2014-08-21-upenn/blob/gh-pages/create_clean_dist_files.ipynb">IPython notebook</a>
+to run through the examples in the bootcamp course material and strip
+out the output cells and zip it all up nice and pretty-like. Seemed to
+work pretty well, so if anyone wants it, please feel free to use
+it. Moving forward, it would be nice if we had clean versions
+committed to the repos from the start, I&nbsp;think.</p>
+<h3>Teaching&nbsp;git</h3>
+<p>Throughout the instructor training (did I mention this was my first
+time teaching a bootcamp?) and after, it was never clear to me the
+direction with which the lessons were to be delivered. It seemed to
+be entirely up to the particular instructor, a situation in which I&#8217;m
+very comfortable, but I didn&#8217;t want to step on any toes. Reading
+through the git material, I thought it would make much more sense to,
+sort-of, pseudo-flip, the lesson material. In this way, I could
+introduce some of the material (say 15 minutes a time) and then set
+the bootcamp attendees off and running with the lessons as lined out
+in the course material. I also paired them up to work on a
+collaborative scenario in which the work done in previous lessons was
+shared via pull requests to their partner&#8217;s repository on github
+(which also got them all github&nbsp;accounts!).</p>
+<p>In terms of my own delivery, I did something perhaps unorthodox. <strong>I
+taught git without a <span class="caps">GUI</span> and without dropping to the shell</strong>. Instead,
+I used an <a href="http://www.ipython.org">IPython notebook</a>. Well, not just a
+plain notebook, but one with
+<a href="https://github.com/damianavila/live_reveal">Damian Avila</a>&#8216;s live
+reveal slideshow extension and the <code>%rehashx</code> + <code>%automagic on</code>
+magics. I did this for a couple of reasons: 1) to introduce the
+students to the IPython notebook which they would be seeing when David
+taught Python and 2) to have a continuity in my lessons without having
+to have presentation slides dropping out to a shell and back again. I
+was very pleased with out it all went down on this front - there were
+some minor glitches related to the projector and getting confused with
+too many Google Chrome windows, but that was all quite
+self-inflicted. Having a ready shell integrated with presentation
+slides was, from my point of view, a pretty effective way to deliver
+the material. I would welcome feed back here, especially from the
+bootcamp participants on how it actually went over. The notebook
+containing the slides can be downloaded
+<a href="https://github.com/cfriedline/swc-slides/blob/master/2014-08-21-upenn/git.ipynb">here</a>.</p>
+<p>So, with that out of the way, the git lessons in the course material
+were already quite solid, so I didn&#8217;t really add anything there except
+to pair the students up for pushing and pulling in two common
+collaborative models: 1) granting access to collaborators to your own
+repository and 2) forking a repository and submitting pull
+requests. We discussed the safety and pain of both approaches and from
+the comments and questions, it was pretty clear to me that we
+accomplished several&nbsp;things:</p>
+<ol>
+<li>That git (or version control, in general) is&nbsp;important.</li>
+<li>That using git isn&#8217;t too&nbsp;hard</li>
+<li>That collaborating using version control is entirely within&nbsp;reach</li>
+</ol>
+<p>It was great to hear the immediate feed back from both PIs and their
+students that the skills we were presenting to them were going to be
+put into practice immediately, a fact that&#8217;s both stimulating as an
+instructor and satisfying as an advocate for best practices in the
+real&nbsp;world.</p>
+<h3>The room and the&nbsp;Etherpad</h3>
+<p>As with most Software Carpentry bootcamps, we set up and monitored
+an <a href="https://swcarpentry.etherpad.mozilla.org/2014-08-21-upenn?">Etherpad</a>. I thought
+this was particularly effective, especially given the room&nbsp;setup.</p>
+<p><img src="/images/swc_upenn.png" width="500px"></p>
+<p>Unfortunately, what I alluded to earlier about some of things not
+coming together as they normally would have given more time, is that
+we were allocated an auditorium setting in which to run the
+bootcamp. This meant that it would be difficult for us to get to
+students in the middle of the rows to help them, and also that the
+highly effective &#8220;Post-it barometer system of understanding&#8221; could not
+be used because we couldn&#8217;t see people&#8217;s laptops to which the notes
+would be stuck. This is where the Etherpad came in, much more so on
+day one than day two (not sure why). I was able to answer many
+questions on it while David was teaching. David was able to monitor it
+while I was teaching as well. I&#8217;ve heard reports that instructors
+often keep their own copy open while they&#8217;re lecturing, but I think
+that, for me at least, it would be really distracting. Having someone
+else there to monitor it was really helpful. It&#8217;s also a great
+resource for data mining and adjusting lessons in the future, though I
+will admit that I haven&#8217;t had a chance to go back to my slides and
+adjust.  All in all, the room worked out fine, so if there are
+reservations about this in the future, it turned out (at least for us)
+to be not that big of a&nbsp;deal.</p>
+<h3>Live&nbsp;tweeting</h3>
+<p>I attempted to live tweet while David was teaching as well as
+encouraging others to do so, as well. However, it seemed like our
+audience wasn&#8217;t too into it, so I personally devoted most of my time
+to the Etherpad. It didn&#8217;t stop me from sending a few tweets out,
+though. I think in the future, I&#8217;ll make more of an effort to get
+participants to do this, as it&#8217;s a great motivator for instructors to
+do well and is great free promotion for the&nbsp;organization.</p>
+<h2>Day&nbsp;2</h2>
+<p>Day two started off with David teaching Python. We agreed that he&#8217;ll
+likely also take some time after lunch, and took a quick poll to make
+sure that everyone was cool with maybe having a little less time with
+<span class="caps">SQL</span> in the afternoon. We polled also to make sure that <span class="caps">SQL</span> was
+something that they wanted because David and I kicked around spending
+the whole day on Python. We all agreed: rock through all of the Python
+and then introduce as much as spastically (because I was teaching?)
+possible the <span class="caps">SQL</span> portion. Again, David did a great job explaining core
+Python concepts to everyone, and I had very little to do expect to
+chime in with some cool tidbits about the notebook I&#8217;ve come across
+since it&#8217;s a hugely important part of my daily workflow. I also got to
+talk with some of the participants about remote notebooks and
+submitting jobs into a cluster batch system, functionality that not
+only to people not realize is there, but also how harnessable it all
+is once you know a little bit about the IPython ecosystem. I get way
+too excited about it, too, which I&#8217;m sure is annoying, but I won&#8217;t
+apologize. IPython changed my life. There, I said&nbsp;it.</p>
+<p>I wrapped up the day by teaching through the <span class="caps">SQL</span> lessons, actually
+using the delivered bootcamp material rather than my own slides like
+I did with the git lessons.  We went fast, but I tried to be engaging
+and informative. I tried to drive home some of the inherent coolness
+of databases in general and how they can immediately be applied, as I
+have done, in common next-generation sequencing and phylogenetics
+workflows. In a room full of material scientists, I was even able to
+find a fellow phylogeneticist to talk to about how I handle some of my
+data in git, Python, and <span class="caps">SQL</span>
+(<a href="http://en.wikipedia.org/wiki/Eating_your_own_dog_food">Dogfooding</a>,
+at it&#8217;s&nbsp;best).</p>
+<h2>Final&nbsp;thoughts</h2>
+<p>I really enjoyed teaching this bootcamp and getting to geek out with
+fellow scientists for a couple of days, especially with scientists who
+work in completely different areas than my own. The attendees made
+this bootcamp great, too, as would be true with anything like
+this. They were excited, engaged, had great questions, and were
+totally appreciative of our time. It&#8217;s not usually the case that one
+volunteers (at least for me) with the idea that they should be
+showered with praise, but it&#8217;s really rewarding when you know your
+time was&nbsp;well-spent.</p>
+<p>It was great to meet and teach with David, and I learned a lot from
+watching him teach a subject in which he is an expert. I also enjoyed
+our conversations walking back to the hotel from campus. It would be a
+pleasure to teach with him again, and I have absolutely no reservations
+in recommending him as an instructor for future&nbsp;bootcamps.</p>
+<p>In the future, I&#8217;ll also make sure to do a better job to express the
+importance of both the pre- and post-bootcamp&nbsp;surveys.</p>
+<p>I especially want to thank Doug J., David S., and Charlotte M. for
+taking such great care of us while we were there. From getting us
+going in the rooms, to arranging lodging, and providing us with
+amazing students, satisfying lunches, and completely essential coffee
+breaks, it was a top-notch, class-act all the way. Thank you, thank
+you, thank&nbsp;you.</p>
+<p>Though my schedule is kind of absurd these days, I&#8217;ll be sure to carve
+out as much time as I can in the future to be able to teach one of
+these bootcamps again (and hopefully it won&#8217;t be too long, hint.). It
+was&nbsp;privilege.</p>
+<p>&#8212;Chris</p>
+            </div>
+            <!-- /.entry-content -->
+<section class="well" id="related-posts">
+    <h4>Related Posts:</h4>
+    <ul>
+        <li><a href="../../../../../posts/2014/Dec/08/software-carpentry-certified/">Software Carpentry&nbsp;certified!</a></li>
+        <li><a href="../../../../../posts/2015/Mar/25/winter-school-in-weggis/">Winter school in&nbsp;Weggis</a></li>
+    </ul>
+</section>
+    <hr />
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style">
+            <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+            <a class="addthis_button_tweet"></a>
+            <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+    </div>
+    <!-- AddThis Button END -->
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3" id="sidebar">
+            <aside>
+<!-- Sidebar -->
+<section class="well well-sm">
+  <ul class="list-group list-group-flush">
+
+<!-- Sidebar/Social -->
+<li class="list-group-item">
+  <h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+  <ul class="list-group" id="social">
+    <li class="list-group-item"><a href="http://www.bitbucket.org/cfriedline"><i class="fa fa-bitbucket-square fa-lg"></i> Bitbucket</a></li>
+    <li class="list-group-item"><a href="http://github.com/cfriedline"><i class="fa fa-github-square fa-lg"></i> Github</a></li>
+    <li class="list-group-item"><a href="http://twitter.com/noituloveand"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+    <li class="list-group-item"><a href="http://www.linkedin.com/in/friedline"><i class="fa fa-linkedin-square fa-lg"></i> LinkedIn</a></li>
+  </ul>
+</li>
+<!-- End Sidebar/Social -->
+
+<!-- Sidebar/Tag Cloud -->
+<li class="list-group-item">
+  <a href="../../../../../"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+  <ul class="list-group list-inline tagcloud" id="tags">
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/bnfo.html">bnfo</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/collaborate.html">collaborate</a>
+    </li>
+    <li class="list-group-item tag-2">
+      <a href="../../../../../tag/evolution.html">evolution</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/facepalm.html">facepalm</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/field.html">field</a>
+    </li>
+    <li class="list-group-item tag-2">
+      <a href="../../../../../tag/git.html">git</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/gore.html">gore</a>
+    </li>
+    <li class="list-group-item tag-1">
+      <a href="../../../../../tag/ipython.html">ipython</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/lab.html">lab</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/latex.html">latex</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/loblolly.html">loblolly</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/longleaf.html">longleaf</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/math.html">math</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/microbiome.html">microbiome</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/nsf.html">nsf</a>
+    </li>
+    <li class="list-group-item tag-2">
+      <a href="../../../../../tag/openscience.html">openscience</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/paper.html">paper</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/papers.html">papers</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/permits.html">permits</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/publications.html">publications</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/python.html">python</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/rant.html">rant</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/science.html">science</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/sge.html">sge</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/sql.html">sql</a>
+    </li>
+    <li class="list-group-item tag-2">
+      <a href="../../../../../tag/swcarpentry.html">swcarpentry</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/talks.html">talks</a>
+    </li>
+    <li class="list-group-item tag-1">
+      <a href="../../../../../tag/teaching.html">teaching</a>
+    </li>
+    <li class="list-group-item tag-4">
+      <a href="../../../../../tag/travel.html">travel</a>
+    </li>
+  </ul>
+</li>
+<!-- End Sidebar/Tag Cloud -->
+
+<!-- Sidebar/Twitter Timeline -->
+<li class="list-group-item">
+  <h4><i class="fa fa-twitter fa-lg"></i><span class="icon-label">Latest Tweets</span></h4>
+  <div id="twitter_timeline">
+    <a class="twitter-timeline" data-width="250" data-height="300" data-dnt="true" data-theme="light" href="https://twitter.com/noituloveand">Tweets by noituloveand</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</li>
+<!-- End Sidebar/Twitter Timeline -->
+
+<!-- Sidebar/Links -->
+<li class="list-group-item">
+  <h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+  <ul class="list-group" id="links">
+    <li class="list-group-item">
+      <a href="http://eckertlab.blogspot.com/" target="_blank">Eckert Lab</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://riveralab.bio.vcu.edu/" target="_blank">Rivera Lab</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://www.biology.vcu.edu" target="_blank">VCU Biology</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://evolfri.blogspot.com" target="_blank">Evol.Fri</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://www.software-carpentry.org" target="_blank">Software Carpentry</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://phylogenomics.blogspot.com" target="_blank">The Tree of Life</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://ivory.idyll.org/blog" target="_blank">Living in an Ivory Basement</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://phenomena.nationalgeographic.com/blog/the-loom/" target="_blank">The Loom</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://treethinkers.blogspot.com" target="_blank">Dechronization</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://treethinkers.org/blog/" target="_blank">TreeThinkers</a>
+    </li>
+    <li class="list-group-item">
+      <a href="http://haldanessieve.org" target="_blank">Haldane's Sieve</a>
+    </li>
+  </ul>
+</li>
+<!-- End Sidebar/Links -->
+  </ul>
+</section>
+<!-- End Sidebar -->            </aside>
+        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2018 Christopher J. Friedline
+            &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>                <p><small>  <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="../../../../../theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../../../../../theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="../../../../../theme/js/respond.min.js"></script>
+
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-42131442-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+
+        <script type="text/javascript">var addthis_config = {"data_track_addressbar": true};</script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53d5b428043a2c47"></script>
+</body>
+</html>

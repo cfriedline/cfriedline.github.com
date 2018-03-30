@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Christopher J. Friedline, Ph.D. - Blog</title><link href="http://chris.friedline.net/" rel="alternate"></link><link href="http://chris.friedline.net/feeds/blog.atom.xml" rel="self"></link><id>http://chris.friedline.net/</id><updated>2018-03-23T10:38:00-04:00</updated><entry><title>So, yeah…</title><link href="http://chris.friedline.net/posts/2018/Mar/23/so-yeah/" rel="alternate"></link><published>2018-03-23T10:38:00-04:00</published><updated>2018-03-23T10:38:00-04:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2018-03-23:/posts/2018/Mar/23/so-yeah/</id><summary type="html">&lt;p&gt;I know this is out of date, but hopefully more content soon on new pubs and
+other exciting developments and&amp;nbsp;musings.&lt;/p&gt;</summary><content type="html">&lt;p&gt;I know this is out of date, but hopefully more content soon on new pubs and
+other exciting developments and&amp;nbsp;musings.&lt;/p&gt;</content></entry><entry><title>Winter school in Weggis</title><link href="http://chris.friedline.net/posts/2015/Mar/25/winter-school-in-weggis/" rel="alternate"></link><published>2015-03-25T15:13:00-04:00</published><updated>2015-03-25T15:13:00-04:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2015-03-25:/posts/2015/Mar/25/winter-school-in-weggis/</id><summary type="html">&lt;p&gt;This is just a place-holder for now, largely to get myself moving on writing all of this up. Until then, here are some of the&amp;nbsp;basics&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I was one of five instructors for the &lt;a href="http://www.adaptation.ethz.ch/education/winter-school-2015.html"&gt;Bioinformatics for Adaptation Genomics&lt;/a&gt;: Adaptation genomics in the realm of Next-Generation Sequencing data analysis course, held …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;This is just a place-holder for now, largely to get myself moving on writing all of this up. Until then, here are some of the&amp;nbsp;basics&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I was one of five instructors for the &lt;a href="http://www.adaptation.ethz.ch/education/winter-school-2015.html"&gt;Bioinformatics for Adaptation Genomics&lt;/a&gt;: Adaptation genomics in the realm of Next-Generation Sequencing data analysis course, held in Weggis, &lt;span class="caps"&gt;CH&lt;/span&gt; from March 1 to March 7,&amp;nbsp;2015.&lt;/li&gt;
+&lt;li&gt;My day-long &lt;a href="https://github.com/cfriedline/congen2015"&gt;lecture and exercises&lt;/a&gt; focused on evolutionary genetics (genomics) and methods for detecting assocations, among genotypes, traits, and&amp;nbsp;evironments.&lt;/li&gt;
+&lt;li&gt;My wife went,&amp;nbsp;too!  &lt;/li&gt;
+&lt;li&gt;The trip was wholly&amp;nbsp;awesome.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More later, I&amp;nbsp;promise.&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;</content><category term="teaching"></category><category term="travel"></category><category term="evolution"></category><category term="ipython"></category></entry><entry><title>On preprints, war, and the end of the world</title><link href="http://chris.friedline.net/posts/2014/Dec/10/on-preprints-war-and-the-end-of-the-world/" rel="alternate"></link><published>2014-12-10T10:31:00-05:00</published><updated>2014-12-10T10:31:00-05:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2014-12-10:/posts/2014/Dec/10/on-preprints-war-and-the-end-of-the-world/</id><summary type="html">&lt;p&gt;&lt;span class="caps"&gt;OK&lt;/span&gt;, so this post is mostly about preprints.&amp;nbsp;Onward!&lt;/p&gt;
+&lt;h2&gt;Some&amp;nbsp;background&lt;/h2&gt;
+&lt;p&gt;Ask a high-energy physicist (does anyone really &lt;em&gt;know&lt;/em&gt; one?) about using a
+preprint server and chances are that not only have they deposited papers at one
+(like &lt;a href="http://www.arxiv.org"&gt;arXiv&lt;/a&gt;), chances are the discussion of whether or
+not to do so …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;span class="caps"&gt;OK&lt;/span&gt;, so this post is mostly about preprints.&amp;nbsp;Onward!&lt;/p&gt;
+&lt;h2&gt;Some&amp;nbsp;background&lt;/h2&gt;
+&lt;p&gt;Ask a high-energy physicist (does anyone really &lt;em&gt;know&lt;/em&gt; one?) about using a
+preprint server and chances are that not only have they deposited papers at one
+(like &lt;a href="http://www.arxiv.org"&gt;arXiv&lt;/a&gt;), chances are the discussion of whether or
+not to do so either doesn&amp;#8217;t make any sense (because&amp;#8230;physicist) or is silly
+(because&amp;#8230;physicist). Jokes about our mathy colleagues aside, the practice of
+posting research to their larger scientific community before or during the peer
+review process, which in their case can sometimes take an inordinately long
+time, become part of their culture over two decades&amp;nbsp;ago. &lt;/p&gt;
+&lt;p&gt;Started in the early 90&amp;#8217;s, arXiv is currently housed at
+&lt;a href="http://www.cornell.edu"&gt;Cornell University&lt;/a&gt; and currently serves the fields of
+Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative
+Finance, and Statistics.  As of today, it provides open access to 995,193
+e-prints, not shabby at all considering that only 306 papers were submitted in
+1991, the first year. Though there are other minor players in the game, the main
+additional preprint servers are: &lt;a href="http://www.biorxiv.org"&gt;bioRxiv&lt;/a&gt;,
+&lt;a href="http://precedings.nature.com"&gt;Nature Precedings&lt;/a&gt;, and
+&lt;a href="http://www.peerj.com"&gt;PeerJ&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Now, if you&amp;#8217;re looking for a thorough review of preprint culture in biology,
+this post will not be the place. There have been others who invested the time
+and energy to do that, and if you&amp;#8217;re interested in what others have to say (and
+you should be), There are links at the &lt;a href="#links"&gt;bottom of this post&lt;/a&gt;,
+&lt;strong&gt;what this post will be about&lt;/strong&gt; is a recent preprint experience I had at
+&lt;a href="http://evolfri.blogspot.com"&gt;EvolFri&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;The&amp;nbsp;reading&lt;/h2&gt;
+&lt;p&gt;So why all this talk of preprints, Chris? Glad you asked. At a recent
+installment of EvolFri, we read a paper that, though now published in a
+highly-read, though perhaps not the most technical, journal, started out as a
+preprint.  Not only did it start out as a preprint, we even knew about it as
+soon as it came out (i.e., social media) there. Awesome, I thought: a preprint
+relevant to the work we do in our lab, one we can potentially read at our
+weekly &amp;#8220;meeting,&amp;#8221; and written by scientists we respect.  Which brings me to
+&lt;strong&gt;Preprint Benefit #1&lt;/strong&gt;: we got access to the work before it went through
+the formal processes of editorial consent and peer&amp;nbsp;review.&lt;/p&gt;
+&lt;p&gt;My first read through it, as with most papers I read for the first time, caused
+no great distress. I made note of some sections and sentences to come back to
+later, which of course I didn&amp;#8217;t (something about a road, paving, and best
+intentions?). The version that we actually read for EvolFri, however, was
+different enough, post-publication, that the group (myself included) had some
+not insignificant concerns. On the surface, the points made in the paper were
+harmless enough in most cases, but given the high-degree of readership of the
+eventual journal and who in the community was likely to read the article (e.g.,
+outside grant reviewers), alarm bells started to go off. This leads right into
+&lt;strong&gt;Preprint Benefit #2&lt;/strong&gt;: the ability for the scientific community to interact
+with the paper. This interaction, I imagine can come in many forms: 1) Emailing
+the authors with comments, 2) Posting comments directly to the paper (or an
+aggregator site, like &lt;a href="http://www.haldanessieve.org"&gt;Haldane&amp;#8217;s Sieve&lt;/a&gt;), or using
+the special powers of social media to comment to the world (+dog). In fact, in
+this case, comments were indeed solicited by the authors when the preprint was&amp;nbsp;advertised.&lt;/p&gt;
+&lt;h2&gt;The&amp;nbsp;problem&lt;/h2&gt;
+&lt;p&gt;While we agreed with the majority of the points made in the paper, the concerns
+we had after it was all over were, in our (now red-cheeked) opinions, worthy of
+larger scientific discussion/criticism. If only we had a forum in which to
+address these issues before they were formally published. If&amp;nbsp;only&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Let&amp;#8217;s talk about &lt;strong&gt;Preprint Problem #1&lt;/strong&gt;: there&amp;#8217;s no incentive to participate
+other than to publish. Open science is awesome, a great idea, supported by large
+numbers of scientists in our field and others, and can only do great things,
+right? &lt;span class="caps"&gt;OK&lt;/span&gt;, that&amp;#8217;s well-established. Unfortunately, the current climates of
+Biology and Biomedicine do: little, if anything, to reward the publishing of
+preprint articles; little, if anything, to reward having your preprint article
+cited, and nothing at all to reward participating in the process of preprint
+review. &lt;strong&gt;Why in the name of Darwin&lt;/strong&gt; would any scientist in their right mind,
+who is already committed to 50% research, 50% teaching, 50% service, and 50%
+outreach (yes, I can add), devote any time to providing comments to preprints?
+That lots of scientists are &lt;a href="http://bit.ly/12N0mPN"&gt;not in their right mind&lt;/a&gt; in
+the first place, notwithstanding, they don&amp;#8217;t.  They simply don&amp;#8217;t, and won&amp;#8217;t
+until something changes with the current state of Big Business Academia, where
+pressures to train, publish, teach, and serve compete with turning the wheels
+of the &lt;a href="http://bit.ly/1ByOjEF"&gt;overhead machine&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Step 1: &lt;a href="https://www.youtube.com/watch?v=sKFRSL4wpcY&amp;amp;spfreload=10"&gt;fix&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Did click the fix link?  No, well,
+&lt;a href="https://www.youtube.com/watch?v=JjLmY0SxoWM"&gt;then there is no pleasing you&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Joking aside, the only way this system is going to change, I think, is
+for a few brave souls to stand up and fight the &amp;#8220;man&amp;#8221;.  I&amp;#8217;m talking about
+picketing, walk-outs, and rioting, if you have to.  Hell, take a
+student or two hostage (not your own, though, they have work to do). Even,
+now bare with me, lecturing without PowerPoint can&amp;#8217;t be off the&amp;nbsp;table.&lt;/p&gt;
+&lt;p&gt;If all of that seems too tame, I understand. Maybe instead of those options, we
+can all just come together at meetings, or over the social internet media site
+thingies, and decide this is something that we want to do (or not) and move
+forward. Lobby with colleagues in your department. Meet with your colleagues in
+Physics. Come together as a community and make those above us, at least in
+title, understand why this part of your 50% service is valuable and&amp;nbsp;rewardable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preprint repositories can help, too&lt;/strong&gt;. In addition to the lobbying, blogging,
+and publishing that they already do, providing a way to validate and query
+contributions of outside reviewers/commentors would be a great first step, so
+when Dr. Friedline says he reviewed 365 pre-prints last year, his boss can
+easily validate&amp;nbsp;it.&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;
+&lt;h3&gt;Links&lt;/h3&gt;
+&lt;p&gt;&lt;a id="links"&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://news.sciencemag.org/biology/2014/11/biorxiv-1-year-promising-start"&gt;BioRxiv at 1 year: A promising start&lt;/a&gt;
+   (Kaiser, Science Insider,&amp;nbsp;2014)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.plosbiology.org/article/info:doi%2F10.1371%2Fjournal.pbio.1001563#s4"&gt;The Case for Open Preprints in Biology&lt;/a&gt; (Desjardins-Proulx, et al. &lt;span class="caps"&gt;PLOS&lt;/span&gt; Biology,&amp;nbsp;2013)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://www.nature.com/news/preprints-come-to-life-1.14140"&gt;Preprints come to live&lt;/a&gt; (Callaway, Nature News,&amp;nbsp;2013)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://amapress.gen.cam.ac.uk/?p=1316"&gt;Why I support BioRxiv and the emerging culture of preprint servers&lt;/a&gt; (Martinez-Arias, Cambridge, &lt;span class="caps"&gt;UK&lt;/span&gt;,&amp;nbsp;2013)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="papers"></category><category term="openscience"></category></entry><entry><title>New microsatellite paper out!</title><link href="http://chris.friedline.net/posts/2014/Dec/08/new-microsatellite-paper-out/" rel="alternate"></link><published>2014-12-08T22:51:00-05:00</published><updated>2014-12-08T22:51:00-05:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2014-12-08:/posts/2014/Dec/08/new-microsatellite-paper-out/</id><summary type="html">&lt;p&gt;I&amp;#8217;m late in putting this up, too, but a big thanks to Serena and Clint for
+the opportunity to be a part of their work in this cool&amp;nbsp;system.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://link.springer.com/article/10.1007/s12686-014-0380-8"&gt;
+&lt;img src="/images/Caplinsetal2014_PrimerNote.png", width=500&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;</summary><content type="html">&lt;p&gt;I&amp;#8217;m late in putting this up, too, but a big thanks to Serena and Clint for
+the opportunity to be a part of their work in this cool&amp;nbsp;system.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://link.springer.com/article/10.1007/s12686-014-0380-8"&gt;
+&lt;img src="/images/Caplinsetal2014_PrimerNote.png", width=500&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;</content><category term="paper"></category></entry><entry><title>Software Carpentry certified!</title><link href="http://chris.friedline.net/posts/2014/Dec/08/software-carpentry-certified/" rel="alternate"></link><published>2014-12-08T22:37:00-05:00</published><updated>2014-12-08T22:37:00-05:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2014-12-08:/posts/2014/Dec/08/software-carpentry-certified/</id><summary type="html">&lt;p&gt;This is a little late in getting up here, achievment having
+been unlocked last May, but better late than&amp;nbsp;never.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m very proud to be part of this
+&lt;a href="http://www.software-carpentry.ort"&gt;organization&lt;/a&gt;, and I&amp;#8217;m looking forward to
+teaching more workshops in&amp;nbsp;2015.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/swc_cert.png", width="500px"&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is a little late in getting up here, achievment having
+been unlocked last May, but better late than&amp;nbsp;never.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m very proud to be part of this
+&lt;a href="http://www.software-carpentry.ort"&gt;organization&lt;/a&gt;, and I&amp;#8217;m looking forward to
+teaching more workshops in&amp;nbsp;2015.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/swc_cert.png", width="500px"&gt;&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;</content><category term="swcarpentry"></category><category term="teaching"></category></entry><entry><title>How we should (and should not) collaborate</title><link href="http://chris.friedline.net/posts/2014/Oct/14/how-we-should-and-should-not-collaborate/" rel="alternate"></link><published>2014-10-14T14:20:00-04:00</published><updated>2014-10-14T14:20:00-04:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2014-10-14:/posts/2014/Oct/14/how-we-should-and-should-not-collaborate/</id><summary type="html">&lt;p&gt;For those of you who know me (all 10 of you), you are well aware of
+where I stand on open science and, more recently, on
+reproducibility. For everyone else, I believe strongly in open
+science, open writing, open collaboration, accountability, and
+documentation. I have nothing to hide when it …&lt;/p&gt;</summary><content type="html">&lt;p&gt;For those of you who know me (all 10 of you), you are well aware of
+where I stand on open science and, more recently, on
+reproducibility. For everyone else, I believe strongly in open
+science, open writing, open collaboration, accountability, and
+documentation. I have nothing to hide when it comes to how I do
+science, and I expect the same from my collaborators. With regard to
+reproducibility, I promise to make every effort to write methods with
+enough detail that will enable you, albeit with some skill required,
+to reproduce my results. I will not, most likely, provide anyone with
+fully turn-key solutions (e.g, &lt;a href="http://www.docker.com"&gt;Docker&lt;/a&gt;,
+&lt;a href="http://www.vagrantup.com"&gt;Vagrant&lt;/a&gt;). I don&amp;#8217;t believe that&amp;#8217;s my job as
+a scientist, and until someone convinces me otherwise, that&amp;#8217;s where I
+stand.  All that being said, &lt;strong&gt;I welcome collaboration, and would love
+to work with you&lt;/strong&gt;. Yes, even you. And&amp;nbsp;you.&lt;/p&gt;
+&lt;p&gt;A recent collaboration of mine has reminded me how much there is for
+some of us to learn when it comes to working in, for lack of a better
+term, an open science framework. First thing&amp;#8217;s first: I don&amp;#8217;t expect
+anyone to become a LaTeX expert overnight or understand how to cherry
+pick changes across git branches, but here is a list of a few things
+that I would prefer not to (read: likely won&amp;#8217;t)&amp;nbsp;do.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Use Microsoft&amp;nbsp;Word&lt;/li&gt;
+&lt;li&gt;Email infinite copies of documents&amp;nbsp;around&lt;/li&gt;
+&lt;li&gt;Provide a sharing solution (e.g, Google Drive, Dropbox) to you,
+only to turn around and then email you&amp;nbsp;documents.&lt;/li&gt;
+&lt;li&gt;Engage in endless email threads about changes to documents, tables,
+figures,&amp;nbsp;etc.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To address these, here&amp;#8217;s my preferred working environment and how it
+might benefit us to be the most productive when working on a paper&amp;nbsp;together.&lt;/p&gt;
+&lt;h3&gt;Use&amp;nbsp;LaTeX:&lt;/h3&gt;
+&lt;p&gt;I could go on and on, but my main reasons for writing this way&amp;nbsp;are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Citation management (BibTeX, AucTex, RefTeX,&amp;nbsp;etc.)&lt;/li&gt;
+&lt;li&gt;Plain-text documents lend themselves to version&amp;nbsp;control&lt;/li&gt;
+&lt;li&gt;Version control provides a natural way to collaborate (i.e., via
+&lt;a href="http://www.github.com"&gt;Github&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;It&amp;#8217;s available everywhere, even on the web via
+       &lt;a href="http://www.authorea.com"&gt;Authorea&lt;/a&gt;,
+       &lt;a href="http://www.writelatex.com"&gt;WriteLaTeX&lt;/a&gt;,
+       &lt;a href="http://www.sharelatex.com"&gt;ShareLaTeX&lt;/a&gt;,&amp;nbsp;etc.&lt;/li&gt;
+&lt;li&gt;It makes journal submission much&amp;nbsp;easier!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Use&amp;nbsp;git&lt;/h3&gt;
+&lt;p&gt;Of course, there are many ways to version control, but this is what I
+prefer. It makes working collaboratively possible while keeping
+changes safe and contributions accounted-for. It&amp;#8217;s also what we teach
+at &lt;a href="http://www.software-carpentry.com"&gt;Software Carpentry&lt;/a&gt; so what
+kind of instructor would I be if I didn&amp;#8217;t use it? It also gets us away
+from the (just plain) nasty paradigm of emailing documents around like
+&lt;code&gt;results_1_cf_1_2_modified_cf2_modified_5.csv&lt;/code&gt;.&lt;/p&gt;
+&lt;h3&gt;Use email for its&amp;nbsp;purpose&amp;#8230;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;To tell me what I a good job I&amp;#8217;m&amp;nbsp;doing&lt;/li&gt;
+&lt;li&gt;To set up a time so we can have a conference call to tell me what a
+   good job I&amp;#8217;m&amp;nbsp;doing&lt;/li&gt;
+&lt;li&gt;To allow me a place to tell you what a good job you&amp;#8217;re&amp;nbsp;doing&lt;/li&gt;
+&lt;li&gt;You get the&amp;nbsp;idea.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Use collaboration tools for&amp;nbsp;collaboration&lt;/h3&gt;
+&lt;p&gt;This could mean many things to many people.  To me, it means something like&amp;nbsp;this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;If we have documents on Google Drive and you want to chat about it or make changes,
+do those things using the tools in Google Drive. This way, we can keep track of
+work and requests for work without going completely&amp;nbsp;nuts.&lt;/li&gt;
+&lt;li&gt;If you want to make a significant change to a document we&amp;#8217;re writing together on
+Github, submit an issue or pull request for the same reasons as&amp;nbsp;above&lt;/li&gt;
+&lt;li&gt;Please don&amp;#8217;t make me log into the same Google Drive that I&amp;#8217;ve
+shared to you, click the same &lt;code&gt;Download&lt;/code&gt; button you could click,
+download the files to my computer, and then email them to&amp;nbsp;you.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;For Pete&amp;#8217;s&amp;nbsp;sake&lt;/h3&gt;
+&lt;p&gt;Please, please, please, take the time to consider what I&amp;#8217;m saying and
+how you&amp;#8217;re currently doing things. Might there be some upfront,
+getting-used-to-it-ivness? Sure.  I promise, though, it will be worth
+it. We have so much technology to help us be the most productive
+scientists we can be, and from my own experiences, we are all much
+happier when things go smoothly and don&amp;#8217;t have to spend time on
+thoughts like &amp;#8220;in what folder did I put that most recent version of
+that&amp;nbsp;file.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;This concludes rant&amp;nbsp;#546.&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;</content><category term="collaborate"></category><category term="git"></category><category term="latex"></category><category term="openscience"></category></entry><entry><title>Software Carpentry at Penn Redux</title><link href="http://chris.friedline.net/posts/2014/Sep/30/software-carpentry-at-penn-redux/" rel="alternate"></link><published>2014-09-30T22:02:00-04:00</published><updated>2014-09-30T22:02:00-04:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2014-09-30:/posts/2014/Sep/30/software-carpentry-at-penn-redux/</id><summary type="html">&lt;h2&gt;Intro and shell (day&amp;nbsp;1)&lt;/h2&gt;
+&lt;p&gt;This post has been a long time coming, since
+&lt;a href="http://www.twitter.com/rdavidmurray"&gt;R. David Murray&lt;/a&gt; and I taught
+the &lt;a href="http://swcarpentry.github.io/2014-08-21-upenn"&gt;bootcamp&lt;/a&gt; on
+8/21-22/2014. Sadly, I&amp;#8217;ve been struggling with wrangling my own data,
+collaborators, going to &lt;span class="caps"&gt;NSF&lt;/span&gt;, planning sampling trips, helping to train
+the new undergrads in …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Intro and shell (day&amp;nbsp;1)&lt;/h2&gt;
+&lt;p&gt;This post has been a long time coming, since
+&lt;a href="http://www.twitter.com/rdavidmurray"&gt;R. David Murray&lt;/a&gt; and I taught
+the &lt;a href="http://swcarpentry.github.io/2014-08-21-upenn"&gt;bootcamp&lt;/a&gt; on
+8/21-22/2014. Sadly, I&amp;#8217;ve been struggling with wrangling my own data,
+collaborators, going to &lt;span class="caps"&gt;NSF&lt;/span&gt;, planning sampling trips, helping to train
+the new undergrads in the lab, and about 1000 other things since
+then. Luckily, no one reads my&amp;nbsp;blog.&lt;/p&gt;
+&lt;p&gt;The planning for this bootcamp came together very quickly, and I think
+all parties can agree that some things could have been tightened up a
+little bit. With that said, I think it went off really well. It was an
+amazing experience both as a scientist to be immersed in that
+stimulating of an environment and as an instructor having the good
+fortune of a body of students so excited and (dare I say) hungry for
+the material. I was extremely proud to be representing Software
+Carpentry, and I hope we did the name justice when all was said and&amp;nbsp;done.&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;ve ready my &lt;a href="/pages/about.html"&gt;bio&lt;/a&gt;, you already know that I lived
+around the Philadelphia area for several years before moving to
+Richmond, &lt;span class="caps"&gt;VA&lt;/span&gt;. It was great to be back in the city and having dinner at
+old (&lt;a href="http://www.monkscafe.com"&gt;Monk&amp;#8217;s Cafe&lt;/a&gt;) and new
+(&lt;a href="http://crowandthepitcher.com"&gt;Crow and the Pitcher&lt;/a&gt;) places. The
+folks at Penn were able to secure us great rooms at
+&lt;a href="http://clubquarters.com/philadelphia"&gt;Club Quarters&lt;/a&gt;, too, providing a
+great walk over to campus to begin and end the&amp;nbsp;day.&lt;/p&gt;
+&lt;p&gt;David and I arrived early on the first day in case anyone had issues
+with getting the required software up and going before we got
+started. No one really needed our help for this part, so we spent the
+time getting our laptops connected to the projector, finding the chalk
+(I love chalk!) for the boards, and planning the day. We settled on
+each teaching for 1/2 of each day with David handling Bash and Python
+and me up for git and &lt;span class="caps"&gt;SQL&lt;/span&gt;. I sent out a few tweets about this, but I
+feel like we (myself included) were all quite fortunate to have a core
+CPython maintainer going over shell and Python lessons. Having not
+taught a huge amount (by his own admission), I thought David delivered
+all of his lessons with an expected level of mastery. That afternoon,
+I taught the git material, but perhaps in a different way than&amp;nbsp;before.&lt;/p&gt;
+&lt;h3&gt;Cleaning example&amp;nbsp;files&lt;/h3&gt;
+&lt;p&gt;We needed to distribute the examples to the
+course participants, but when I went out to the bootcamp site, they
+already had the examples worked through in the lesson notebooks. As a
+quick hack, I set these up cleaned versions using another
+&lt;a href="https://github.com/swcarpentry/2014-08-21-upenn/blob/gh-pages/create_clean_dist_files.ipynb"&gt;IPython notebook&lt;/a&gt;
+to run through the examples in the bootcamp course material and strip
+out the output cells and zip it all up nice and pretty-like. Seemed to
+work pretty well, so if anyone wants it, please feel free to use
+it. Moving forward, it would be nice if we had clean versions
+committed to the repos from the start, I&amp;nbsp;think.&lt;/p&gt;
+&lt;h3&gt;Teaching&amp;nbsp;git&lt;/h3&gt;
+&lt;p&gt;Throughout the instructor training (did I mention this was my first
+time teaching a bootcamp?) and after, it was never clear to me the
+direction with which the lessons were to be delivered. It seemed to
+be entirely up to the particular instructor, a situation in which I&amp;#8217;m
+very comfortable, but I didn&amp;#8217;t want to step on any toes. Reading
+through the git material, I thought it would make much more sense to,
+sort-of, pseudo-flip, the lesson material. In this way, I could
+introduce some of the material (say 15 minutes a time) and then set
+the bootcamp attendees off and running with the lessons as lined out
+in the course material. I also paired them up to work on a
+collaborative scenario in which the work done in previous lessons was
+shared via pull requests to their partner&amp;#8217;s repository on github
+(which also got them all github&amp;nbsp;accounts!).&lt;/p&gt;
+&lt;p&gt;In terms of my own delivery, I did something perhaps unorthodox. &lt;strong&gt;I
+taught git without a &lt;span class="caps"&gt;GUI&lt;/span&gt; and without dropping to the shell&lt;/strong&gt;. Instead,
+I used an &lt;a href="http://www.ipython.org"&gt;IPython notebook&lt;/a&gt;. Well, not just a
+plain notebook, but one with
+&lt;a href="https://github.com/damianavila/live_reveal"&gt;Damian Avila&lt;/a&gt;&amp;#8216;s live
+reveal slideshow extension and the &lt;code&gt;%rehashx&lt;/code&gt; + &lt;code&gt;%automagic on&lt;/code&gt;
+magics. I did this for a couple of reasons: 1) to introduce the
+students to the IPython notebook which they would be seeing when David
+taught Python and 2) to have a continuity in my lessons without having
+to have presentation slides dropping out to a shell and back again. I
+was very pleased with out it all went down on this front - there were
+some minor glitches related to the projector and getting confused with
+too many Google Chrome windows, but that was all quite
+self-inflicted. Having a ready shell integrated with presentation
+slides was, from my point of view, a pretty effective way to deliver
+the material. I would welcome feed back here, especially from the
+bootcamp participants on how it actually went over. The notebook
+containing the slides can be downloaded
+&lt;a href="https://github.com/cfriedline/swc-slides/blob/master/2014-08-21-upenn/git.ipynb"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So, with that out of the way, the git lessons in the course material
+were already quite solid, so I didn&amp;#8217;t really add anything there except
+to pair the students up for pushing and pulling in two common
+collaborative models: 1) granting access to collaborators to your own
+repository and 2) forking a repository and submitting pull
+requests. We discussed the safety and pain of both approaches and from
+the comments and questions, it was pretty clear to me that we
+accomplished several&amp;nbsp;things:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;That git (or version control, in general) is&amp;nbsp;important.&lt;/li&gt;
+&lt;li&gt;That using git isn&amp;#8217;t too&amp;nbsp;hard&lt;/li&gt;
+&lt;li&gt;That collaborating using version control is entirely within&amp;nbsp;reach&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It was great to hear the immediate feed back from both PIs and their
+students that the skills we were presenting to them were going to be
+put into practice immediately, a fact that&amp;#8217;s both stimulating as an
+instructor and satisfying as an advocate for best practices in the
+real&amp;nbsp;world.&lt;/p&gt;
+&lt;h3&gt;The room and the&amp;nbsp;Etherpad&lt;/h3&gt;
+&lt;p&gt;As with most Software Carpentry bootcamps, we set up and monitored
+an &lt;a href="https://swcarpentry.etherpad.mozilla.org/2014-08-21-upenn?"&gt;Etherpad&lt;/a&gt;. I thought
+this was particularly effective, especially given the room&amp;nbsp;setup.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/swc_upenn.png" width="500px"&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately, what I alluded to earlier about some of things not
+coming together as they normally would have given more time, is that
+we were allocated an auditorium setting in which to run the
+bootcamp. This meant that it would be difficult for us to get to
+students in the middle of the rows to help them, and also that the
+highly effective &amp;#8220;Post-it barometer system of understanding&amp;#8221; could not
+be used because we couldn&amp;#8217;t see people&amp;#8217;s laptops to which the notes
+would be stuck. This is where the Etherpad came in, much more so on
+day one than day two (not sure why). I was able to answer many
+questions on it while David was teaching. David was able to monitor it
+while I was teaching as well. I&amp;#8217;ve heard reports that instructors
+often keep their own copy open while they&amp;#8217;re lecturing, but I think
+that, for me at least, it would be really distracting. Having someone
+else there to monitor it was really helpful. It&amp;#8217;s also a great
+resource for data mining and adjusting lessons in the future, though I
+will admit that I haven&amp;#8217;t had a chance to go back to my slides and
+adjust.  All in all, the room worked out fine, so if there are
+reservations about this in the future, it turned out (at least for us)
+to be not that big of a&amp;nbsp;deal.&lt;/p&gt;
+&lt;h3&gt;Live&amp;nbsp;tweeting&lt;/h3&gt;
+&lt;p&gt;I attempted to live tweet while David was teaching as well as
+encouraging others to do so, as well. However, it seemed like our
+audience wasn&amp;#8217;t too into it, so I personally devoted most of my time
+to the Etherpad. It didn&amp;#8217;t stop me from sending a few tweets out,
+though. I think in the future, I&amp;#8217;ll make more of an effort to get
+participants to do this, as it&amp;#8217;s a great motivator for instructors to
+do well and is great free promotion for the&amp;nbsp;organization.&lt;/p&gt;
+&lt;h2&gt;Day&amp;nbsp;2&lt;/h2&gt;
+&lt;p&gt;Day two started off with David teaching Python. We agreed that he&amp;#8217;ll
+likely also take some time after lunch, and took a quick poll to make
+sure that everyone was cool with maybe having a little less time with
+&lt;span class="caps"&gt;SQL&lt;/span&gt; in the afternoon. We polled also to make sure that &lt;span class="caps"&gt;SQL&lt;/span&gt; was
+something that they wanted because David and I kicked around spending
+the whole day on Python. We all agreed: rock through all of the Python
+and then introduce as much as spastically (because I was teaching?)
+possible the &lt;span class="caps"&gt;SQL&lt;/span&gt; portion. Again, David did a great job explaining core
+Python concepts to everyone, and I had very little to do expect to
+chime in with some cool tidbits about the notebook I&amp;#8217;ve come across
+since it&amp;#8217;s a hugely important part of my daily workflow. I also got to
+talk with some of the participants about remote notebooks and
+submitting jobs into a cluster batch system, functionality that not
+only to people not realize is there, but also how harnessable it all
+is once you know a little bit about the IPython ecosystem. I get way
+too excited about it, too, which I&amp;#8217;m sure is annoying, but I won&amp;#8217;t
+apologize. IPython changed my life. There, I said&amp;nbsp;it.&lt;/p&gt;
+&lt;p&gt;I wrapped up the day by teaching through the &lt;span class="caps"&gt;SQL&lt;/span&gt; lessons, actually
+using the delivered bootcamp material rather than my own slides like
+I did with the git lessons.  We went fast, but I tried to be engaging
+and informative. I tried to drive home some of the inherent coolness
+of databases in general and how they can immediately be applied, as I
+have done, in common next-generation sequencing and phylogenetics
+workflows. In a room full of material scientists, I was even able to
+find a fellow phylogeneticist to talk to about how I handle some of my
+data in git, Python, and &lt;span class="caps"&gt;SQL&lt;/span&gt;
+(&lt;a href="http://en.wikipedia.org/wiki/Eating_your_own_dog_food"&gt;Dogfooding&lt;/a&gt;,
+at it&amp;#8217;s&amp;nbsp;best).&lt;/p&gt;
+&lt;h2&gt;Final&amp;nbsp;thoughts&lt;/h2&gt;
+&lt;p&gt;I really enjoyed teaching this bootcamp and getting to geek out with
+fellow scientists for a couple of days, especially with scientists who
+work in completely different areas than my own. The attendees made
+this bootcamp great, too, as would be true with anything like
+this. They were excited, engaged, had great questions, and were
+totally appreciative of our time. It&amp;#8217;s not usually the case that one
+volunteers (at least for me) with the idea that they should be
+showered with praise, but it&amp;#8217;s really rewarding when you know your
+time was&amp;nbsp;well-spent.&lt;/p&gt;
+&lt;p&gt;It was great to meet and teach with David, and I learned a lot from
+watching him teach a subject in which he is an expert. I also enjoyed
+our conversations walking back to the hotel from campus. It would be a
+pleasure to teach with him again, and I have absolutely no reservations
+in recommending him as an instructor for future&amp;nbsp;bootcamps.&lt;/p&gt;
+&lt;p&gt;In the future, I&amp;#8217;ll also make sure to do a better job to express the
+importance of both the pre- and post-bootcamp&amp;nbsp;surveys.&lt;/p&gt;
+&lt;p&gt;I especially want to thank Doug J., David S., and Charlotte M. for
+taking such great care of us while we were there. From getting us
+going in the rooms, to arranging lodging, and providing us with
+amazing students, satisfying lunches, and completely essential coffee
+breaks, it was a top-notch, class-act all the way. Thank you, thank
+you, thank&amp;nbsp;you.&lt;/p&gt;
+&lt;p&gt;Though my schedule is kind of absurd these days, I&amp;#8217;ll be sure to carve
+out as much time as I can in the future to be able to teach one of
+these bootcamps again (and hopefully it won&amp;#8217;t be too long, hint.). It
+was&amp;nbsp;privilege.&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;</content><category term="swcarpentry"></category><category term="teaching"></category><category term="sql"></category><category term="python"></category></entry><entry><title>Drying silica beads in the microwave</title><link href="http://chris.friedline.net/posts/2014/Jul/28/drying-silica-beads-in-the-microwave/" rel="alternate"></link><published>2014-07-28T10:57:00-04:00</published><updated>2014-07-28T10:57:00-04:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2014-07-28:/posts/2014/Jul/28/drying-silica-beads-in-the-microwave/</id><summary type="html">&lt;p&gt;So, this is a new fun one. As I need to get my butt back out in the
+field again, having used all of the silica beads in previous trips
+(between Brandon and I) to keep our needles dry, we were faced with
+two obvious choices: buy new or reuse …&lt;/p&gt;</summary><content type="html">&lt;p&gt;So, this is a new fun one. As I need to get my butt back out in the
+field again, having used all of the silica beads in previous trips
+(between Brandon and I) to keep our needles dry, we were faced with
+two obvious choices: buy new or reuse. Being the thrifty scientists
+that we are (hey, we are supported by the &lt;span class="caps"&gt;NSF&lt;/span&gt;, after all), you can
+probably guess which way we went. Plus, silica is darn expensive, and
+we&amp;#8217;d much rather spend our lab money on more critical supplies&amp;nbsp;(beer).&lt;/p&gt;
+&lt;p&gt;For those unfamiliar with the awesomeness of silica beads, we buy them
+in bulk with an indicator: &lt;span class="caps"&gt;OITND&lt;/span&gt; (Orange is the New Dry). Actually, no
+one actually knows what the chemical is (lies!), but when it&amp;#8217;s wet, it
+loses it&amp;#8217;s color. Good enough for&amp;nbsp;us.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/silica_bulk.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;When you put pine needles into 15 ml tubes containing about 6 ml of
+gel beads, it&amp;#8217;s only a matter of time, due to continued transpiration,
+that they will get fully hydrated. This is great; they&amp;#8217;ve done their
+job, but using beads only once is hugely expensive
+(&lt;a href="http://www.amazon.com/55LBS-Orange-Moisture-Indicating-Silica/dp/B00656VZO8"&gt;$350.00&lt;/a&gt;
+for 55 lbs). Hence, the&amp;nbsp;re-dry.&lt;/p&gt;
+&lt;p&gt;It goes without saying that having a great undergrad in the lab who
+can take tasks and run with them, makes getting dry beads a snap for
+high-end postdocs like myself (&lt;em&gt;snicker&lt;/em&gt;). Alice did a great job of
+getting this working efficiently, so I wanted to share it with you,
+all three of you (including my parents) who read this&amp;nbsp;blog.&lt;/p&gt;
+&lt;p&gt;It goes a little something like&amp;nbsp;this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Remove the beads from current tubes and pour them into something
+convenient to store them before&amp;nbsp;drying&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Get a 13x9x2 Pyrex baking&amp;nbsp;dish&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pour (carefully, as they get bouncy) a nice single layer of&amp;nbsp;beads&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Set your microwave to medium (our setting is 5/10, but &lt;span class="caps"&gt;YMMV&lt;/span&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cook the beads for 3&amp;nbsp;minutes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Take out and give a good stir.  We
+use a technical piece of equipment designed for stirring, like a
+ruler. (&lt;em&gt;Note: be careful, the beads get wicked hot!&lt;/em&gt;). Some sticking
+is normal, but be careful. If they get too hot and burn, they are&amp;nbsp;ruined.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cook for another 3 minutes on&amp;nbsp;medium&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stir again (see&amp;nbsp;above)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Go another minute if necessary (we do, but again, &lt;span class="caps"&gt;YMMV&lt;/span&gt;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If all goes right, you should have a nice, orange, ready-to-go set of
+beads.  All that&amp;#8217;s left to do is put them into new tubes and organize
+them (into sets of 5, in my case). If your undergrad is as good as
+Alice, you can get about 50 lbs of silica dried and put into 100
+groups of 5 in about a&amp;nbsp;day.&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;</content><category term="lab"></category></entry><entry><title>Recap of my talk on 4/25/14 at CCTL</title><link href="http://chris.friedline.net/posts/2014/Apr/28/recap-of-my-talk-on-42514-at-cctl/" rel="alternate"></link><published>2014-04-28T10:21:00-04:00</published><updated>2014-04-28T10:21:00-04:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2014-04-28:/posts/2014/Apr/28/recap-of-my-talk-on-42514-at-cctl/</id><summary type="html">&lt;p&gt;&lt;a href=http://iss.schoolwires.com/Domain/3495 border=0 target=_new&gt;
+&lt;img src=http://iss.schoolwires.com/cms/lib4/NC01000579/Centricity/Template/3//logos/cctl.jpg
+width="500px"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or, I suppose I should title this &amp;#8220;Evolution of the trees of
+the cosmos.&amp;#8221; More on why in a little&amp;nbsp;bit.&lt;/p&gt;
+&lt;p&gt;For the span of about a year, I have been thinking about
+putting together a series of talks for advanced high
+school students to stress the importance of having …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href=http://iss.schoolwires.com/Domain/3495 border=0 target=_new&gt;
+&lt;img src=http://iss.schoolwires.com/cms/lib4/NC01000579/Centricity/Template/3//logos/cctl.jpg
+width="500px"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or, I suppose I should title this &amp;#8220;Evolution of the trees of
+the cosmos.&amp;#8221; More on why in a little&amp;nbsp;bit.&lt;/p&gt;
+&lt;p&gt;For the span of about a year, I have been thinking about
+putting together a series of talks for advanced high
+school students to stress the importance of having a
+working knowledge of mathematical concepts in order
+to &amp;#8220;do&amp;#8221; science. More recently, it occurred to me that
+this was a statement only really directed toward
+students who were already interested in studying
+science and not necessarily toward others, like
+students interested in pursuing mathematics as a
+career but who never thought of applying their
+skills in the biological sciences (where, &lt;span class="caps"&gt;IMO&lt;/span&gt;,
+these skills are both needed and highly sought). I&amp;#8217;m
+still trying to balance these priorities in my head,
+getting science kids to recognize the importance of
+math and getting math kids to realize that they,
+too, have a place in science (biological sciences,
+in particular). I say, &amp;#8220;kids&amp;#8221;, in the most
+well-intentioned, non-condescending way possible, by
+the way.
+So, with little more than a concept in mind, I approached
+two people: my wife&amp;#8217;s cousin Lauren (a math teacher in
+Richmond, &lt;span class="caps"&gt;VA&lt;/span&gt;) and my friend Brooke, (a math teacher in
+Statesville, &lt;span class="caps"&gt;NC&lt;/span&gt;). Brooke, incidentally, is married to
+a childhood friend of both my wife and me, Matt. Matt
+and Brooke are also amazing hosts, so visiting them
+at their home would be yet another benefit of the&amp;nbsp;trip!&lt;/p&gt;
+&lt;p&gt;Coordinating with the folks at Brooke&amp;#8217;s school, the
+&lt;a href="http://iss.schoolwires.com/Domain/3495"&gt;Collaborative College for Technology &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Leadership
+(&lt;span class="caps"&gt;CCTL&lt;/span&gt;)&lt;/a&gt;,
+an Early College High School in Statesville, &lt;span class="caps"&gt;NC&lt;/span&gt;, was a
+wonderful experience. Within a few days of initially contacting
+them, we had the principal on board, as well as Britainy the
+science teacher, a room, and a good plan on how to proceed.
+It was their idea to combine their respective classes for the
+day, and we set up three one-hour slots for me to speak to the
+groups of students. I&amp;#8217;m still waiting to hear back from the
+teachers in &lt;a href="http://www.henrico.k12.va.us"&gt;Henrico&lt;/a&gt; (hint!),
+but I&amp;#8217;m hopeful that we can coordinate something before the
+end of the&amp;nbsp;year.&lt;/p&gt;
+&lt;p&gt;The Spring, except for the fine coating of pollen on everything,
+is a fantastic time of year in &lt;span class="caps"&gt;VA&lt;/span&gt; and &lt;span class="caps"&gt;NC&lt;/span&gt;, and I took full advantage
+of it by riding down on my new &lt;a href="/images/triumph.png"&gt;Triumph&lt;/a&gt;
+(much to my wife&amp;#8217;s dismay). The weather was in the 70&amp;#8217;s and 80&amp;#8217;s,
+and it was an amazing ride on country roads and through small
+towns. I really also dig &amp;#8220;The Wave,&amp;#8221; and
+did my fair share of crotch-rocket snubbery. Arriving a little
+late into Matt and Brooke&amp;#8217;s led to characteristic revelry, and the
+6 a.m. wake-up call came very, very&amp;nbsp;quickly.&lt;/p&gt;
+&lt;p&gt;I decided to use Prezi for my talk, a first for me, as I
+normally tend to err more on the side of scientific
+content than entertainment value, but it was a
+good experience. I&amp;#8217;ve embedded it here, in case anyone
+wants to have a&amp;nbsp;look.&lt;/p&gt;
+&lt;iframe src="http://prezi.com/embed/-qygo8d1jasu/?bgcolor=ffffff&amp;amp;
+lock_to_path=0&amp;amp;autoplay=0&amp;amp;
+autohide_ctrls=0&amp;amp;features=undefined&amp;amp;disabled_features=undefined"
+width="550" height="400" frameBorder="0" webkitAllowFullScreen
+mozAllowFullscreen allowfullscreen&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;One thing that might jump out to you immediately, is the lack
+of a proper title. I did this on purpose - not simply because
+I was too lazy to do this job myself, but I wanted to make
+sure that my message got across. A cheap trick? Maybe. Was
+it useful? Maybe - but since I forgot to circle back to it
+the first two times I gave the talk, it&amp;#8217;s hard to know. The quote
+at the beginning of this post (that I said I&amp;#8217;d come back to) is
+one of the options the third group came up with. Not too shabby,
+and it certainly proves that I&amp;#8217;m not invisible and that they were
+paying&amp;nbsp;attention.&lt;/p&gt;
+&lt;p&gt;My talk was outlined as below. For the first time giving it, I think
+that all of the pieces were there that I wanted to cover.  However,
+there was a lot of info - perhaps too much. Anyway, here it&amp;nbsp;is:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;My educational and &lt;span class="caps"&gt;IT&lt;/span&gt; backgrounds - I think this is useful for
+students to hear for a couple of reasons. First, to emphasize
+that I &lt;em&gt;thought&lt;/em&gt; I knew what I wanted to do (eye doctor), made a
+plan, executed that plan, then drastically changed that&amp;nbsp;plan. &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My master&amp;#8217;s work - to show some practical application of
+math and algorithms operating on biological (gene expression)&amp;nbsp;data.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My Ph.D. work - introduction to molecular evolution, sequence
+conservation, and the enormity of tree space. All of this
+was meant to generate questions at the end and drive home
+the need for more work in areas of algorithm, computation,
+and the need to understand both math and science to do the&amp;nbsp;work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My Postdoc - talk about variation, a cool quantitative
+character (bark thickness) in light of an interesting ecological
+driver of evolutionary change (fire). Also to demonstrate some
+real-world applications of mathematical concepts they were
+learning now (getting tree height using a&amp;nbsp;clinometer).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Relevant topics in evolution - I chose three to illustrate
+how evolutionary thinking informs modern research: &lt;span class="caps"&gt;HIV&lt;/span&gt; transmission,
+(Castro-Nallar, et al., 2012, The evolution of &lt;span class="caps"&gt;HIV&lt;/span&gt;: inferences using
+phylogenetics, Molecular phylogenetics and evolution, 62(2), pp. 777-92.)
+language spread (Bouckaert, et al., 2012, Mapping the origins and
+expansion of the Indo-European language family, Science, 337(6097),
+pp. 957-60.), and deep-time ancestry (Williams, et. al., 2013, An archaeal
+origin of eukaryotes supports only two primary domains of life,
+Nature, 504(7479), pp.&amp;nbsp;231-6.).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Finally, I talked about how wonderful the show
+&lt;a href="http://www.cosmosontv.com"&gt;Cosmos&lt;/a&gt; is. A good many students already
+watched it (which is awesome!), and I hope I turned new students on
+to the&amp;nbsp;idea.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I also put some of my favorite science-y quotes in there for good&amp;nbsp;measure:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Nothing makes sense in biology except in the light of evolution,
+&lt;em&gt;sub specie evolutionis&lt;/em&gt;.&amp;#8221; -Dobzhansky&amp;nbsp;(1964)&lt;/li&gt;
+&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;Essentially, all models are wrong, but some are useful.&amp;#8221; -Box&amp;nbsp;(1987)&lt;/li&gt;
+&lt;li&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;We live in a society exquisitely dependent on science and technology,
+in which hardly anyone knows anything about science and technology.&amp;#8221;
+-Sagan&amp;nbsp;(1990)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Overall, I was happy with how the talks went, though I did have to
+adapt the content throughout the morning. Here are a few of my&amp;nbsp;observations:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;The first talk spent too much time outlining my
+previous history.  I didn&amp;#8217;t have enough time to talk about my
+current work and spend much time on the current topics. I also
+only had about 10 minutes for questions, which went&amp;nbsp;quickly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The first talk contained way too many attempts
+at thinly-veiled humor. It just simply was too early, and
+in no way am I just &lt;em&gt;not&lt;/em&gt;&amp;nbsp;funny.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I ripped through the third iteration of the talk and left about
+30 minutes for questions. The students had insightful questions and we
+had a lively  discussion. It made me wish I could have talked longer,
+to give them more information, but I was glad for the interaction, and
+was surprised by how willing the students were to engage with me. Along
+those lines, here are some of my favorite, perhaps somewhat unexpected,&amp;nbsp;questions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What were you like when you were in 9th&amp;nbsp;grade?&lt;/li&gt;
+&lt;li&gt;Have you had any issues with your&amp;nbsp;appearance?&lt;/li&gt;
+&lt;li&gt;How did you decide on your area of&amp;nbsp;research?&lt;/li&gt;
+&lt;li&gt;What&amp;#8217;s more important, math or&amp;nbsp;science?&lt;/li&gt;
+&lt;li&gt;If you had the opportunity, would you choose to go to a school like
+&lt;span class="caps"&gt;CCTL&lt;/span&gt;?&lt;/li&gt;
+&lt;li&gt;Do you believe we will find a cure for&amp;nbsp;cancer?&lt;/li&gt;
+&lt;li&gt;Would you recommend going into the medical&amp;nbsp;field?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I hope that I gave adequate answers to these questions. I was
+immediately struck by how open the students were, especially the
+9th graders. There is no way I would have been so forward and
+fearless with a Ph.D. in front of the room when I was their age. It was
+completely refreshing in a &amp;#8220;there&amp;#8217;s still hope for humanity&amp;#8221; kind of
+way. The students should feel proud for both representing themselves
+intelligently and as shining ambassadors for their school. If
+everyone there is like these groups of students, &lt;span class="caps"&gt;CCTL&lt;/span&gt; is certainly doing
+things&amp;nbsp;right.&lt;/p&gt;
+&lt;p&gt;To the student who asked me about curing cancer: my family, too, has been
+greatly affected by cancer, and I&amp;#8217;ve been dealing with it on a daily
+basis since 1996. My mother was diagnosed with Multiple Myeloma when I
+was a freshman in college, and my father had renal cancer resulting in having
+his kidney removed a couple of years ago now. I hope that my answer wasn&amp;#8217;t flip,
+because I certainly didn&amp;#8217;t mean it to be. My best to you and your family.
+My mother has outlived all of the current research, and my father is also
+currently doing well, so there &lt;em&gt;is&lt;/em&gt; hope. Hang in&amp;nbsp;there.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To the students and teachers at &lt;span class="caps"&gt;CCTL&lt;/span&gt;&lt;/strong&gt;: I am in your debt. Thank you
+so much for allowing me to crash your morning on an early-release day and
+for the opportunity to talk about my work and my field. I hope you learned
+something from me because I know that I did from you. Please also feel
+free to leave comments on this post so we can continue our&amp;nbsp;dialog.&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;</content><category term="talks"></category><category term="nsf"></category><category term="science"></category><category term="math"></category><category term="evolution"></category></entry><entry><title>I am not a bioinformatician</title><link href="http://chris.friedline.net/posts/2014/Jan/22/i-am-not-a-bioinformatician/" rel="alternate"></link><published>2014-01-22T14:50:00-05:00</published><updated>2014-01-22T14:50:00-05:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2014-01-22:/posts/2014/Jan/22/i-am-not-a-bioinformatician/</id><summary type="html">&lt;p&gt;Ok, so I suppose this requires some clarification. Last 
+week, I attended &lt;a href="http://www.intlpag.org"&gt;&lt;span class="caps"&gt;PAGXXII&lt;/span&gt;&lt;/a&gt; in San Diego. 
+Overall, it was a good experience.  Given that I have no choice 
+of going for the next two years, as a condition of my 
+&lt;span class="caps"&gt;NSF&lt;/span&gt; fellowship, I&amp;#8217;ll be looking forward to some sun …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ok, so I suppose this requires some clarification. Last 
+week, I attended &lt;a href="http://www.intlpag.org"&gt;&lt;span class="caps"&gt;PAGXXII&lt;/span&gt;&lt;/a&gt; in San Diego. 
+Overall, it was a good experience.  Given that I have no choice 
+of going for the next two years, as a condition of my 
+&lt;span class="caps"&gt;NSF&lt;/span&gt; fellowship, I&amp;#8217;ll be looking forward to some sun 
+next January.  This being my first major conference as a 
+postdoc, I was characteristically terrible at 
+networking, probably talked too much at the bar each night, 
+and spent too much time sitting in meetings rather than 
+building scientific collaborations in the&amp;nbsp;sunshine.&lt;/p&gt;
+&lt;p&gt;I went to lots of talks at &lt;span class="caps"&gt;PAG&lt;/span&gt; that focused on, well, what 
+I would call &amp;#8220;bean-counting.&amp;#8221;  You&amp;#8217;ve been there, yearning 
+for biological or evolutionary insight from the newly 
+assembled or annotated genome, only to sit there 
+though talk after talk of &amp;#8220;The N50 was&amp;#8230;&amp;#8221; or &amp;#8220;At 100X coverage 
+we managed to assemble 14M contigs&amp;#8230;&amp;#8221;  While these data 
+are no doubt valuable to the scientific process, it does 
+fall a little flat after awhile.  Give me some description 
+of a novel pathway, what makes your study system special, how 
+can this be applied to a more broad class of organisms, something, 
+dear god something, other than N50 and contig number and length&amp;nbsp;distributions.&lt;/p&gt;
+&lt;p&gt;With that mini-rant out of the way, I had a chance encounter 
+with a scientist from a well-known lab, studying some of the 
+same trees as we do, who earlier in the week, saw me talking 
+to another member of his lab.  I was sitting at the bar, having 
+a snack before the banquet, and he said something like, &amp;#8220;I saw 
+you talking to so-and-so, and you&amp;#8217;re the &amp;#8216;bioinformatician&amp;#8217; 
+working with Andrew, right?&amp;#8221;  Just then, I died a little inside. 
+In fact, the same thing happened at the &lt;span class="caps"&gt;NSF&lt;/span&gt; awardee meeting in the 
+fall, when the program officer told a room full of other awardees
+(read: professional and admirable scientists) that I was a 
+bioinformatician, and that my proposal was funded partly 
+because I brought a different level of experience to the 
+plant genomics community (the addressing of fundamental 
+evolutionary questions and specific, testable hypotheses, 
+notwithstanding, of&amp;nbsp;course).&lt;/p&gt;
+&lt;p&gt;Here&amp;#8217;s my perspective.  Yes, I used to do lots of fancy &lt;span class="caps"&gt;IT&lt;/span&gt;. 
+Yes, I know my way around several operating systems and know 
+a few programming languages. Yes, I have a masters in bioinformatics 
+in addition to a Ph.D. Yes, I write code every day. Yes, I write 
+this code (usually) to analyze biological data.  So, why am I not a 
+bioinformatician, then?  Why don&amp;#8217;t I just shut up and stop being 
+such an elitist?  As it turns out, the former question is much easier 
+to address than the latter (snicker).  Let me say first, before anyone 
+gets their feelings hurt, that &lt;strong&gt;there is nothing wrong with being a 
+bioinformatician&lt;/strong&gt;.  &lt;/p&gt;
+&lt;p&gt;The venerable Wikipedia defines 
+&lt;a href="http://en.wikipedia.org/wiki/Bioinformatics"&gt;bioinformatics&lt;/a&gt; as: &amp;#8220;an 
+interdisciplinary scientific field that develops methods for storing, 
+retrieving, organizing and analyzing biological data.&amp;#8221;  You can read 
+the wiki, if you desire, but the short of it is (at least for me) is 
+that I am interested in the &lt;strong&gt;science&lt;/strong&gt; of the system, not simply the 
+techniques (developed either by me or someone else) used in the analysis 
+process.  I want to understand the &lt;strong&gt;biology&lt;/strong&gt;, and that happens to come 
+along, these days, with the (un)fortunate burden of huge data&amp;nbsp;sets.&lt;/p&gt;
+&lt;p&gt;To me, a bioinformatician is someone who works in conjunction with a &lt;span class="caps"&gt;PI&lt;/span&gt; 
+(I do include myself in this category) and provides a service (sometimes 
+even a valuable one), where that service is needed.  Bioinformaticians 
+tend to prioritize data generation and methodology execution higher than 
+biological insight. They are the &amp;#8220;Methods&amp;#8221; section rather than the 
+&amp;#8220;Discussion&amp;#8221; section.  It&amp;#8217;s also been my (probably extremely 
+rare and biased) experience here at &lt;span class="caps"&gt;VCU&lt;/span&gt; that 
+the &lt;em&gt;bioinformaticians&lt;/em&gt; with whom I have had the pleasure to 
+interact, either (or in some&amp;nbsp;combination):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Don&amp;#8217;t know what they&amp;#8217;re doing (which is&amp;nbsp;bad)&lt;/li&gt;
+&lt;li&gt;Think they know what they&amp;#8217;re doing (which is&amp;nbsp;worse)&lt;/li&gt;
+&lt;li&gt;Provide inadequate customer service (in a service-oriented&amp;nbsp;role)&lt;/li&gt;
+&lt;li&gt;Don&amp;#8217;t play well with others (read: huge&amp;nbsp;ego)&lt;/li&gt;
+&lt;li&gt;Overstay their welcome and/or overestimate their&amp;nbsp;contributions&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So, if I&amp;#8217;m not a bioinformatician, then what (other than elitist, jerk, etc.)? 
+What do I tell my in-laws, friends, relatives, or the occasional stranger at a bar? 
+Usually, I say that &lt;strong&gt;I am a scientist&lt;/strong&gt;, further probing leads me into &lt;strong&gt;evolutionary 
+biologist&lt;/strong&gt; (where my main passions lie) or &lt;strong&gt;computational biologist&lt;/strong&gt; (for 
+practicality).  If I really don&amp;#8217;t care to talk at that moment, I&amp;#8217;ll even fall back 
+on &lt;strong&gt;postdoc&lt;/strong&gt;, but people either don&amp;#8217;t know what that is, or think it has 
+something to do with a Ph.D., but upon further inspection of my person, let&amp;#8217;s face it, 
+doesn&amp;#8217;t often jive with stretched ears and ample&amp;nbsp;tattoos.&lt;/p&gt;
+&lt;p&gt;So, yeah, to sum it up: I neither have said nor ever will say that I am 
+&lt;em&gt;bioinformatician&lt;/em&gt; (and you shouldn&amp;#8217;t,&amp;nbsp;either).&lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;</content><category term="bnfo"></category><category term="facepalm"></category><category term="rant"></category></entry><entry><title>2013 in review</title><link href="http://chris.friedline.net/posts/2014/Jan/07/2013-in-review/" rel="alternate"></link><published>2014-01-07T15:19:00-05:00</published><updated>2014-01-07T15:19:00-05:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2014-01-07:/posts/2014/Jan/07/2013-in-review/</id><summary type="html">&lt;p&gt;Now that the chaos of the end of the year is behind me, I thought I&amp;#8217;d 
+take a step back and look at my progress (such as it was). Lots of lessons 
+were learned this year, and not just scientifically. Navigating the 
+inter-state bureaucracy when it comes to collecting …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Now that the chaos of the end of the year is behind me, I thought I&amp;#8217;d 
+take a step back and look at my progress (such as it was). Lots of lessons 
+were learned this year, and not just scientifically. Navigating the 
+inter-state bureaucracy when it comes to collecting samples is, to put it 
+nicely, slow and inconsistent. More on that&amp;nbsp;later. &lt;/p&gt;
+&lt;h1&gt;Sampling trip #1 (a.k.a., the trip that never should have&amp;nbsp;been)&lt;/h1&gt;
+&lt;p&gt;Leaving my wife at home with our daughter while I was out in the field 
+was a situation that I really wanted to avoid. So, when the opportunity 
+came up for Kristin to have time off at a time when I could get into the field, 
+we both jumped at it. As husbands sometimes do, I made all of the camping 
+reservations for our trip without consulting anyone. The trip was to span 
+a nice swathe of land across the southeast, taking us from Richmond, &lt;span class="caps"&gt;VA&lt;/span&gt;
+to South Carolina, Florida, Alabama, and Georgia. In my mind, this 
+was reasonable. Hell, I was even building just travel days so our 
+baby daughter didn&amp;#8217;t have to spend 12+ hours in the car. I care. I 
+really do. Most of our camping was going to be done in our pop-up, 
+towed lovingly by our trusty &lt;span class="caps"&gt;SAAB&lt;/span&gt;. We had heat, water, power, and shelter - 
+we were golden. The trip started off innocently enough, and we made it our first night stay 
+without issue, if not somewhat late at night, at 
+&lt;a href="http://www.reserveamerica.com/camping/The_Oaks/r/campgroundDetails.do?parkId=261505&amp;amp;contractCode=ELS2&amp;amp;chkAg=y&amp;amp;clCr=y"&gt;The Oaks&lt;/a&gt; 
+in South Carolina. The next day was a drive to &lt;span class="caps"&gt;FL&lt;/span&gt; to stay over at 
+&lt;a href="http://www.floridastateparks.org/rainbowsprings/"&gt;Rainbow Springs&lt;/a&gt;
+State Park. Again - no issues. Got in, set up camp, dinner, some wine. You know, 
+roughing it. The following day was to be the first day of sampling. I was ready. 
+Unfortunately, the system (read: the man) wasn&amp;#8217;t. Armed with not a single 
+scientific permit (because for sure we didn&amp;#8217;t need one and for sure a hard copy 
+of my &lt;span class="caps"&gt;NSF&lt;/span&gt; grant would suffice), I was either denied access to any state park I 
+tried as well as chased from two National Forest sites. Did I mention that 
+this day was also the first day of the government shutdown?  With my head 
+hung low, back to the campsite I headed. Because we are both of solid German stock, 
+we kept what was to be the daily itinerary of waking, sampling, packing, and driving 
+(minus, of course, the sampling). Our next stop in &lt;span class="caps"&gt;FL&lt;/span&gt; was a &lt;span class="caps"&gt;KOA&lt;/span&gt; in Perry, but I had a 
+couple of hours worth of driving from Rainbow Springs, so I did what all good Americans 
+do while driving: make lots of frantic phone calls. I called the &lt;span class="caps"&gt;FL&lt;/span&gt; state park offices in 
+Tallahassee, The Alabama Department of Conservation of Natural Resources, and the Georgia 
+Department of Natural Resources. Telling my story to endless chains of assistants was 
+trying, but I eventually was able to get my hands on a last minute permit (by email) t
+sample in &lt;span class="caps"&gt;AL&lt;/span&gt;. &lt;span class="caps"&gt;GA&lt;/span&gt; would have to wait, though the extremely helpful staff there (literally, 
+not sarcastically) did manage to get me a rushed permit, but it ended up being too&amp;nbsp;late. &lt;/p&gt;
+&lt;p&gt;&lt;img src=/images/fam.jpg width="25%" style="float: right; padding: 10px;"&gt;&lt;/p&gt;
+&lt;p&gt;Sampling in &lt;span class="caps"&gt;AL&lt;/span&gt; was great - we had beautiful weather, the 
+&lt;a href="http://www.alapark.com/FrankJackson/"&gt;Frank Jackson&lt;/a&gt; State Park was completely accommodating, 
+and (as I said earlier), I was ready. However, I grossly underestimated the amount of 
+time sampling would take me, especially in dense forest. The goal was to sample needles and 
+make other measurements (&lt;span class="caps"&gt;DBH&lt;/span&gt;, height, and bark thickness) for 25 trees. Finding the trees was 
+the easy part. I could do the measurements in about 2.5 minutes. Getting the needles 
+with a &lt;a href="http://www.sherrilltree.com/Professional-Gear/BIGshot"&gt;Big Shot&lt;/a&gt;, however, 
+was the most challenging part, taking my 2.5 minutes/tree up to sometimes 20 before 
+I could move on. Given that math, I realized I would going to be at this for a long 
+time (and not just that day, but more like on the scale of years) before it was all 
+said and done. Starting late that first day, I worked until dark, and nearly finished. 
+Nearly, because, well, this&amp;nbsp;happened:&lt;/p&gt;
+&lt;p&gt;Kristin was cleaning a wine glass, the baby was having some lunch, and bang!  Wine glass shatters 
+off the faucet of the camper, Kristin&amp;#8217;s thumb goes right into it, completely severs a nerve, and 
+bleeds like a M-F&amp;#8217;er. A frantic phone call and a trip to the &lt;span class="caps"&gt;ER&lt;/span&gt; (in Opp, &lt;span class="caps"&gt;AL&lt;/span&gt;!) to follow. Thankfully, 
+Kristin, a &lt;span class="caps"&gt;CNRA&lt;/span&gt;, is well-connected. The next day, I finished sampling, and we drove 16 hours from Florala to 
+Richmond so she could be seen by an expert and schedule up some&amp;nbsp;surgery. &lt;/p&gt;
+&lt;p&gt;&lt;img src=/images/blood.jpg width="25%", style="float: right; padding: 10px; "&gt;&lt;/p&gt;
+&lt;p&gt;All in all - the trip was, well, basically, a fail. I was able to get only 25 trees sampled (I anticipated 250). I did, 
+however, learn some valuable&amp;nbsp;lessons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Make sure to allow enough time for sampling and&amp;nbsp;travel.&lt;/li&gt;
+&lt;li&gt;Make sure to obtain any and all permits, even if you might not need&amp;nbsp;them.&lt;/li&gt;
+&lt;li&gt;Carry plastic wine glasses in the&amp;nbsp;camper.&lt;/li&gt;
+&lt;li&gt;Don&amp;#8217;t bring your wife and baby on a 10-day camping/field&amp;nbsp;expedition.&lt;/li&gt;
+&lt;li&gt;If you do bring wife and/or baby, make sure to consult wife ahead of&amp;nbsp;time. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h1&gt;Collecting permits for&amp;nbsp;collection&lt;/h1&gt;
+&lt;p&gt;Getting permits for sampling turned out to be more of a chore than I imagined. Seems like so much 
+of science, really, and at some point I suppose I&amp;#8217;ll stop getting surprised by it. For those of you 
+who are reading and planning on embarking on a scientific sampling endeavor (outside of &lt;span class="caps"&gt;CA&lt;/span&gt;, where, according 
+to &lt;a href="http://ajeckert.blogspot.com"&gt;Andrew&lt;/a&gt;, you can pretty much sample anything as long as you&amp;#8217;re not taking seeds), 
+save yourself a lot of heartache and contact the states/national offices before you go. This will save time, hassle, 
+and jail time - trust me. The process is as follows&amp;nbsp;(roughly):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Search for the state parks you want to visit&amp;nbsp;on-line.&lt;/li&gt;
+&lt;li&gt;Navigate an unpublished and inexplicably long phone&amp;nbsp;tree.&lt;/li&gt;
+&lt;li&gt;If you can&amp;#8217;t find a phone number, find an&amp;nbsp;email.&lt;/li&gt;
+&lt;li&gt;If you can&amp;#8217;t find an email, call the park reservation&amp;nbsp;line.&lt;/li&gt;
+&lt;li&gt;Once you find the right person, find out what they need from you. In my case, my grant application, approval letter, 
+and a page or two of description did the&amp;nbsp;trick.&lt;/li&gt;
+&lt;li&gt;Submit applications, pay (if required), and wait (up to a month or&amp;nbsp;more). &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Most of the approved permits also come with some strings attached. For some states, I&amp;#8217;m required to renew early/often, 
+provide detailed reports, and/or speak at their meetings about my project. Most places require that I give 
+them advanced notice of when I&amp;#8217;m going to be at their location. Luckily, it seems like they&amp;#8217;re cool with approximations and 
+it really does come in handy when the park is expecting your visit. Usually, they also want to know what sites you plan 
+on visiting rather than, say, &amp;#8220;I&amp;#8217;d really like a permit to visit any state park in &lt;span class="caps"&gt;FL&lt;/span&gt; for the next year.&amp;#8221;  For national parks, 
+it&amp;#8217;s a little more complicated. In my case, I submitted an application for the entire region 8 which covers any site I might 
+want to visit in the southeast. As of today, I have permits to sample (at some point this year) at select state parks&amp;nbsp;in: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alabama&lt;/li&gt;
+&lt;li&gt;Arkansas&lt;/li&gt;
+&lt;li&gt;Florida&lt;/li&gt;
+&lt;li&gt;Georgia&lt;/li&gt;
+&lt;li&gt;Louisiana&lt;/li&gt;
+&lt;li&gt;Tennessee&lt;/li&gt;
+&lt;li&gt;Texas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The permit for the National Forest Service, Mississippi, North Carolina, and Virginia are still pending. 
+Applications to Delaware, South Carolina, and Maryland will be submitted by the end of this&amp;nbsp;month. &lt;/p&gt;
+&lt;h1&gt;Sampling trip #2 (a.k.a., two pining&amp;nbsp;boys)&lt;/h1&gt;
+&lt;p&gt;With sampling permits in hand for Arkanasa, Texas, and Louisiana, &lt;a href="http://bmlind.blogspot.com"&gt;Brandon&lt;/a&gt; and I set 
+out after his last final was done. An epic drive later, through torrential rain in Tennessee, had us 
+sleeping on the ground in &lt;span class="caps"&gt;AR&lt;/span&gt;, on ice, in tents. See, it was my original plan to sample further south in 
+the winter, foolishly thinking that it might just be a little warmer. So, so wrong. We woke up to this 
+&lt;a href="/images/son.jpg"&gt;nice young man and his dog&lt;/a&gt; (who can play dead better than a possum) and set off 
+to get some sampling done after downing a few pots of french press, locally-roasted Richmond coffee, 
+and frosted Pop-Tarts. Remember how much I rough it?  We were in loblolly country, and got our first 
+population of the trip done in relatively short order (about 5 hours) at 
+&lt;a href="http://www.arkansasstateparks.com/pinnaclemountain/"&gt;Pinnacle Mountain State Park&lt;/a&gt;. The staff there 
+was super friendly, and very interested in what I was out there doing. It was great to talk about 
+the project to some enthusiastic young people!   The plan for this trip was basically the same as 
+the trip which shall not be named - drive, sample, drive. The next stop was &lt;a href="http://www.arkansasstateparks.com/lakeouachita/"&gt;Lake Ouachita 
+State Park&lt;/a&gt;, and boy was it cold (like single digits, cold!). 
+A good campfire, some dinner, a little Woodford, and day two was done. Sampling at the state park was a bust, 
+but an employee pointed us to the Ouachita National Forest, which was just overflowing with nice stands of loblolly. 
+With sampling done there, and a quick afternoon coffee break out of the back of the car (French press + Camelback water + 
+coffee + propane stove), we were on our way into&amp;nbsp;Texas. &lt;/p&gt;
+&lt;p&gt;We got into &lt;a href="http://www.tpwd.state.tx.us/state-parks/atlanta"&gt;Atlanta State Park&lt;/a&gt;, or as it shall now be known, 
+the &amp;#8220;Park of the 1000 Howling Coyotes.&amp;#8221;  We rocked a huge &lt;a href="/images/atlanta_fire.jpg"&gt;fire&lt;/a&gt; that night, some burgers, 
+I attempted in vain to order Christmas presents from my tent on a single bar of Edge over &lt;a href="http://www.tether.com"&gt;Tether&lt;/a&gt;. 
+No longer in the throngs of Arkansas winter, Texas was shaping up to be not too shabby, despite the 
+inability to buy beer, after 6:00pm, on a Sunday. Sampling here was a non-issue, and we were soon headed 
+south about 240 miles to &lt;a href="http://www.tpwd.state.tx.us/state-parks/village-creek"&gt;Village Creek State Park&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Due in part to a late start, we decided late in the day to stay another night and get the first longleaf 
+population in addition to the loblolly we sampled the first day. 
+&lt;img src=/images/brandon.jpg width="25%" style="float: right; padding: 10px;"&gt; 
+The trail system at the park was really nice, 
+and we only got off trail once on the second day, and we had a good laugh about two PhDs being found 
+dead in the woods with fully charged iPhones and 4 bars of &lt;span class="caps"&gt;LTE&lt;/span&gt;. Down a trail about 2 miles, we found an 
+&lt;a href="/images/longleaf_savannah.jpg"&gt;area that was being reforested&lt;/a&gt;, with natural stands of longleaf. Thinking we were golden, 
+we sampled 12 in addition to the 25 loblollys on the first day, planned to get the second half the next day before 
+heading into Louisiana. Well, you know the saying about paving and best intentions? Because I&amp;#8217;m being careful 
+to control for kinship, I&amp;#8217;m sampling only from trees more than 50m apart, and when you consider 25 trees in a 
+population, that gets to be a pretty big area (there&amp;#8217;s a good math problem there, methinks). So, on day two, 
+we only ended up with a total of 17 longleafs. Not a huge deal, but boo&amp;nbsp;anyway. &lt;/p&gt;
+&lt;p&gt;With many beers in tow after the worlds longest fill-up before leaving &lt;span class="caps"&gt;TX&lt;/span&gt;, we got to 
+&lt;a href="http://www.crt.state.la.us/parks/ishjones.aspx"&gt;Sam Houston Jones State Park&lt;/a&gt;. As with the other places, 
+they were expecting me, and could not have been nicer. The park sits right on top of an old longleaf 
+savannah, and sampling here was a great way to end our trip. We had lunch at 
+&lt;a href="http://www.yelp.com/biz/botskys-lake-charles?nb=1"&gt;Botsky&amp;#8217;s&lt;/a&gt; and dinner the first night at 
+the &lt;a href="http://www.yelp.com/biz/seafood-palace-lake-charles?nb=1"&gt;Seafood Palace&lt;/a&gt;, both of which were awesome.
+The weather for sampling the next day could not have been better - sunny and warm! Finally, we had the weather 
+I thought we&amp;#8217;d have for the entire trip. Out of time, we needed to get back to Richmond by Friday evening. We 
+left Sam Houston Jones, had boudin/cracklin&amp;#8217; dinner at &lt;a href="http://www.yelp.com/biz/best-stop-supermarket-the-scott?nb=1"&gt;Best Stop&lt;/a&gt; 
+in Scott, &lt;span class="caps"&gt;LA&lt;/span&gt; (thanks to the guy at Botsky&amp;#8217;s for the tip!), set up camp at some place in Mississippi about 1/3 of the way home, 
+and drove the remainder on Friday. This trip yielded some new insights as&amp;nbsp;well:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Going into the field with someone else is much more fun and enjoyable than going&amp;nbsp;alone.&lt;/li&gt;
+&lt;li&gt;Brandon is a pro with the Big&amp;nbsp;Shot.&lt;/li&gt;
+&lt;li&gt;I will never be as good as Brandon with the Big&amp;nbsp;Shot.&lt;/li&gt;
+&lt;li&gt;Cold Bourbon is just not all that&amp;nbsp;good.&lt;/li&gt;
+&lt;li&gt;We could really only get down to 10 min/tree. Meaning 2 populations/day is damn near 
+impossible with the winter&amp;nbsp;daylight.&lt;/li&gt;
+&lt;li&gt;I need a team of&amp;nbsp;people. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So, we were able to sample six populations in six days for a total of 142 trees.  Add that to my previous from 
+the trip that shall not be named, and that brings the total to &lt;strong&gt;167&lt;/strong&gt; (out of&amp;nbsp;2000&amp;#8230;)&lt;/p&gt;
+&lt;p&gt;Wow - longness. If you made it this far, you deserve a &amp;#8220;Happy New Year!&amp;#8221; Here&amp;#8217;s to a much more productive&amp;nbsp;2014!&lt;/p&gt;
+&lt;p&gt;Note: This is not &lt;em&gt;all&lt;/em&gt; that we did in 2013, but look for those papers soon to be out in journals near you, this&amp;nbsp;spring.&lt;/p&gt;
+&lt;p&gt;Thanks for reading, and thanks to everyone at the state parks and departments who were so&amp;nbsp;helpful. &lt;/p&gt;
+&lt;p&gt;&amp;#8212;Chris&lt;/p&gt;</content><category term="field"></category><category term="permits"></category><category term="gore"></category><category term="loblolly"></category><category term="longleaf"></category></entry><entry><title>Managing IPython notebooks with GitHub</title><link href="http://chris.friedline.net/posts/2013/Jul/10/managing-ipython-notebooks-with-github/" rel="alternate"></link><published>2013-07-10T10:47:00-04:00</published><updated>2013-07-10T10:47:00-04:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2013-07-10:/posts/2013/Jul/10/managing-ipython-notebooks-with-github/</id><summary type="html">&lt;p&gt;In the process of moving all of my new code to GitHub, I started thinking about how I 
+wanted to manage things like my IPython notebooks. Previoulsy, with my code 
+on &lt;a href="http://bitbucket.org/cfriedline"&gt;Bitbucket&lt;/a&gt;, I created a single hg &lt;a href="https://bitbucket.org/cfriedline/cluster_ipynb"&gt;repo&lt;/a&gt; 
+for all of my notebooks on our cluster. Given that the notebooks …&lt;/p&gt;</summary><content type="html">&lt;p&gt;In the process of moving all of my new code to GitHub, I started thinking about how I 
+wanted to manage things like my IPython notebooks. Previoulsy, with my code 
+on &lt;a href="http://bitbucket.org/cfriedline"&gt;Bitbucket&lt;/a&gt;, I created a single hg &lt;a href="https://bitbucket.org/cfriedline/cluster_ipynb"&gt;repo&lt;/a&gt; 
+for all of my notebooks on our cluster. Given that the notebooks have to live in a single 
+directory for every instance of the notebook, I did that to avoid having to run multiple notebook 
+processes for each of the notebooks I was working&amp;nbsp;on.&lt;/p&gt;
+&lt;p&gt;It occured to me today that there is another possible solution to this, and one I&amp;#8217;ll be using 
+for all of my new code (which will be on &lt;a href="http://github.com/cfriedline"&gt;GitHub&lt;/a&gt;). The process looks 
+like this, and seems much less messy from a &lt;span class="caps"&gt;VCS&lt;/span&gt;&amp;nbsp;standpoint.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Launch a notebook process on the cluster (or use an existing&amp;nbsp;one)&lt;/li&gt;
+&lt;li&gt;Create a new notebook&amp;nbsp;file&lt;/li&gt;
+&lt;li&gt;Create a new directory on the cluster to house the 
+notebook file (with &lt;code&gt;touch&lt;/code&gt;&lt;span class="quo"&gt;&amp;#8216;&lt;/span&gt;ed &lt;code&gt;.gitignore&lt;/code&gt; and &lt;code&gt;README.md&lt;/code&gt; files)&lt;/li&gt;
+&lt;li&gt;Move the notebook to this&amp;nbsp;directory&lt;/li&gt;
+&lt;li&gt;Create a new repo on&amp;nbsp;GitHub&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;git add .&lt;/code&gt;, &lt;code&gt;git commit&lt;/code&gt;, &lt;code&gt;git remote add origin&lt;/code&gt;, &lt;code&gt;git push origin master&lt;/code&gt;,&amp;nbsp;etc.&lt;/li&gt;
+&lt;li&gt;Symlink the &lt;code&gt;.ipynb&lt;/code&gt; file back into the directory from where the notebook is&amp;nbsp;running.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Seems to work great. Note that deleting the notebook from the Dashboard will only 
+delete the symlink, not the notebook itself. Maybe a safety feature, maybe an annoyance, but 
+only time will tell. Simple&amp;nbsp;enough.&lt;/p&gt;</content><category term="ipython"></category><category term="git"></category></entry><entry><title>IPython notebook with Sun Grid Engine</title><link href="http://chris.friedline.net/posts/2013/Jul/09/ipython-notebook-with-sun-grid-engine/" rel="alternate"></link><published>2013-07-09T15:55:00-04:00</published><updated>2013-07-09T15:55:00-04:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2013-07-09:/posts/2013/Jul/09/ipython-notebook-with-sun-grid-engine/</id><summary type="html">&lt;p&gt;Here at &lt;span class="caps"&gt;VCU&lt;/span&gt;, we have what some might call a high performance computing center. While 
+this is largely true, there are many limitations to how the current system is 
+deployed and managed.  My &lt;span class="caps"&gt;IT&lt;/span&gt; background has made working 
+around these limitations somewhat easier, though no less of a &lt;span class="caps"&gt;PITA&lt;/span&gt;.  Hopefully …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Here at &lt;span class="caps"&gt;VCU&lt;/span&gt;, we have what some might call a high performance computing center. While 
+this is largely true, there are many limitations to how the current system is 
+deployed and managed.  My &lt;span class="caps"&gt;IT&lt;/span&gt; background has made working 
+around these limitations somewhat easier, though no less of a &lt;span class="caps"&gt;PITA&lt;/span&gt;.  Hopefully, 
+some of these tips can help others, as&amp;nbsp;well.&lt;/p&gt;
+&lt;p&gt;For the purposes of this tutorial, I will assume that you have Python 2.7.x 
+installed with IPython.  I&amp;#8217;ve been using the fabulous Enthought Python 
+Distribution (a.k.a. &lt;span class="caps"&gt;EPD&lt;/span&gt;) for quite some time, which gets me most of the 
+way there.  As I like living on the edge, I run IPython from the git repo. However, 
+the setup described here should largely be the same regardless of the version 
+of IPython you choose to&amp;nbsp;run.&lt;/p&gt;
+&lt;p&gt;A current limitation of IPython notebooks is that they must be served 
+from a single directory, which presents an interesting paradigm with 
+respect to version control.  This can be managed in multiple&amp;nbsp;ways:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Have all notebooks installed in a single folder and version 
+control at the top level of the folder, including all *.ipynb&amp;nbsp;files&lt;/li&gt;
+&lt;li&gt;Create a folder for each notebook and tie it to an individual running 
+notebook&amp;nbsp;process.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Both of these are possible, and working with either scenario should hopefully 
+be clear by the end of this document.  If not, definitely check out the 
+&lt;a href="http://ipython.org/ipython-doc/dev/config/index.html"&gt;IPython documentation&lt;/a&gt;.  &lt;/p&gt;
+&lt;h1&gt;Create an IPython&amp;nbsp;profile&lt;/h1&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;ipython profile create --parallel --profile=sge
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This will create a profile as &lt;span class="caps"&gt;IPYTHONDIR&lt;/span&gt;/profile_sge&lt;/p&gt;
+&lt;h1&gt;Edit the cluster profile&amp;nbsp;file&lt;/h1&gt;
+&lt;p&gt;Open &lt;code&gt;ipcluster_config.py&lt;/code&gt; and make the following&amp;nbsp;edits:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;c.IPClusterEngines.engine_launcher_class = &amp;quot;SGEEngineSetLauncher&amp;quot;
+c.IPClusterStart.controller_launcher_class = &amp;quot;SGEControllerLauncher&amp;quot;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This setting enables submitting the controller and engines as &lt;span class="caps"&gt;SGE&lt;/span&gt; qsub&amp;nbsp;jobs.&lt;/p&gt;
+&lt;h1&gt;Edit the notebook profile&amp;nbsp;file&lt;/h1&gt;
+&lt;p&gt;Open &lt;code&gt;ipython_notebook_config.py&lt;/code&gt; and make the following&amp;nbsp;edits:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;c.NotebookApp.password = ...
+c.NotebookManager.save_script=True
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The first line sets a password to use for the notebook.  How to do this is 
+in the &lt;a href="http://ipython.org/ipython-doc/dev/interactive/htmlnotebook.html#security"&gt;documentation&lt;/a&gt;.
+The second line saves the notebook out as a Python file for use later.  None of these are 
+necessarily important for running with &lt;span class="caps"&gt;SGE&lt;/span&gt;, but I&amp;#8217;m noting them here&amp;nbsp;anyway.&lt;/p&gt;
+&lt;h1&gt;Hack the IPython&amp;nbsp;frontend&lt;/h1&gt;
+&lt;p&gt;Our cluster setup has compute nodes which all have access to any one of several 
+&lt;span class="caps"&gt;NFS&lt;/span&gt; mounts.  While this is somewhat of a generic setup, a &lt;em&gt;feature&lt;/em&gt; which can 
+result is a write delay of the controller and engine scripts that get dropped 
+when starting a cluster from the notebook. To get around this, I made an edit to 
+&lt;code&gt;lib/python2.7/site-packages/IPython/html/services/clusters/clustermanager.py&lt;/code&gt; which 
+changes &lt;code&gt;delay = CFloat(1., config=True,...)&lt;/code&gt; to delay = CFloat(30., config=True,&amp;#8230;).
+This effectively will, when a cluster is initiated from the notebook, start a controller 
+process via qsub, wait 30 seconds, then start the array job for the engines. This is a 
+definite hack, and I&amp;#8217;d like to see it implemented as a feature sometime in the future. I 
+should probably file a&amp;nbsp;bug&amp;#8230;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: The previous location for this setting (0.13.x - ?) was here:
+&lt;code&gt;lib/python2.7/site-packages/IPython/frontend/html/notebook/clustermanager.py&lt;/code&gt;&lt;/p&gt;
+&lt;h1&gt;Create scripts to start the&amp;nbsp;job&lt;/h1&gt;
+&lt;p&gt;I created two scripts to start the notebook process on the&amp;nbsp;cluster.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;notebook_qsub.sh&lt;/code&gt;&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/bin/bash&lt;/span&gt;
+qsub -cwd -V -N inotebook start_notebook.sh
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;p&gt;&lt;code&gt;start_notebook.sh&lt;/code&gt;&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/bin/bash&lt;/span&gt;
+ipython notebook --pylab inline --no-browser --profile&lt;span class="o"&gt;=&lt;/span&gt;sge
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;p&gt;I put both of these scripts in the folder which will house my notebooks (see options 
+above), make them both executable (&lt;code&gt;chmod +x&lt;/code&gt;).  Because I&amp;#8217;m passing &lt;code&gt;-cwd&lt;/code&gt;, these scripts 
+will operate from the current working directory (i.e., where the ipynb files&amp;nbsp;are).  &lt;/p&gt;
+&lt;h1&gt;Start the&amp;nbsp;notebook&lt;/h1&gt;
+&lt;p&gt;Starting the notebook is simple now.  I just cd to the directory where the notebooks are 
+and run &lt;code&gt;./notebook_qub.sh&lt;/code&gt;.  Assuming all goes well, I should now have my notebook process, 
+named &amp;#8220;inotebook&amp;#8221;, showing up when running &lt;code&gt;qstat&lt;/code&gt;.&lt;/p&gt;
+&lt;h1&gt;Connect to the&amp;nbsp;notebook&lt;/h1&gt;
+&lt;p&gt;Unfortunately, the notebook process will now be running on a compute node, which is not accessible 
+from the outside network.  To enable access from my machine, I do a little &lt;span class="caps"&gt;SSH&lt;/span&gt; tunneling magic.  It 
+goes like&amp;nbsp;this:&lt;/p&gt;
+&lt;p&gt;Open up your .ssh/config and make the following&amp;nbsp;edits&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Host &amp;lt;submitnode&amp;gt;
+User &amp;lt;username&amp;gt;
+HostName &amp;lt;fully.qualified.domain.name.of.submitnode&amp;gt;
+
+Host &amp;lt;computenode&amp;gt;
+User &amp;lt;username&amp;gt;
+ProxyCommand ssh &amp;lt;submitnode&amp;gt; -W %h:22
+LocalForward localhost:8888 localhost:8888
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This will enable you to &lt;code&gt;ssh &amp;lt;computenode&amp;gt;&lt;/code&gt; and tunnel the connection through the &lt;code&gt;&amp;lt;submitnode&amp;gt;&lt;/code&gt; to which 
+you already have access.  The port will be forwarded, through, as well, so all you need to do is now is fire-up 
+your favorite, websocket-enabled browser, and hit &lt;code&gt;http://localhost:8888&lt;/code&gt;. You should now also be able to go the Clusters tab and fire up a cluster.  If you &lt;code&gt;watch qstat&lt;/code&gt;, you should see 
+the controller job start, wait, and then the engines will&amp;nbsp;start.    &lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m definitely making some assumptions here about architecture and that &lt;span class="caps"&gt;SSH&lt;/span&gt; forwarding is enabled in your 
+environment. Your mileage may vary, but I hope this gives a good overview of what my process looks like. 
+More about this problem can be found on my 
+&lt;a href="http://stackoverflow.com/questions/15376992/starting-an-ipython-cluster-from-the-notebook-with-a-delay"&gt;StackExchange post&lt;/a&gt;.&lt;/p&gt;</content><category term="ipython"></category><category term="sge"></category></entry><entry><title>New paper accepted to Orphanet Journal of Rare Diseases</title><link href="http://chris.friedline.net/posts/2013/Jul/03/new-paper-accepted-to-orphanet-journal-of-rare-diseases/" rel="alternate"></link><published>2013-07-03T12:10:00-04:00</published><updated>2013-07-03T12:10:00-04:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2013-07-03:/posts/2013/Jul/03/new-paper-accepted-to-orphanet-journal-of-rare-diseases/</id><summary type="html">&lt;p&gt;Jeremy Gilbreath&amp;#8217;s paper, &lt;em&gt;A Core Microbiome Associated with the Peritoneal Tumors of 
+Pseudomyxoma Peritonei&lt;/em&gt;, on which I am an author, has been accepted to &lt;a href="http://www.ojrd.com"&gt;Orphanet Journal of 
+Rare Diseases&lt;/a&gt;.  Jeremy was my roommate at &lt;a href="http://molevol.mbl.edu"&gt;&lt;span class="caps"&gt;MOLE&lt;/span&gt;&lt;/a&gt; and 
+&lt;a href="http://stamps.mbl.edu"&gt;&lt;span class="caps"&gt;STAMPS&lt;/span&gt;&lt;/a&gt; in 2011, and I&amp;#8217;m proud to collaborate with him and the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Jeremy Gilbreath&amp;#8217;s paper, &lt;em&gt;A Core Microbiome Associated with the Peritoneal Tumors of 
+Pseudomyxoma Peritonei&lt;/em&gt;, on which I am an author, has been accepted to &lt;a href="http://www.ojrd.com"&gt;Orphanet Journal of 
+Rare Diseases&lt;/a&gt;.  Jeremy was my roommate at &lt;a href="http://molevol.mbl.edu"&gt;&lt;span class="caps"&gt;MOLE&lt;/span&gt;&lt;/a&gt; and 
+&lt;a href="http://stamps.mbl.edu"&gt;&lt;span class="caps"&gt;STAMPS&lt;/span&gt;&lt;/a&gt; in 2011, and I&amp;#8217;m proud to collaborate with him and the others.&lt;br&gt;
+Congrats,&amp;nbsp;Jeremy!  &lt;/p&gt;</content><category term="publications"></category><category term="microbiome"></category></entry><entry><title>First post</title><link href="http://chris.friedline.net/posts/2013/Jul/03/first-post/" rel="alternate"></link><published>2013-07-03T10:30:00-04:00</published><updated>2013-07-03T10:30:00-04:00</updated><author><name>Christopher J. Friedline</name></author><id>tag:chris.friedline.net,2013-07-03:/posts/2013/Jul/03/first-post/</id><summary type="html">&lt;p&gt;After much research, toil, and soul-searching, I&amp;#8217;ve decided to start
+this blog as a way to both chronicle my postdoctoral endeavors and
+introduce myself (in a way) to the larger scientific community.  I
+hope that people will find my writings useful, informative, and
+entertaining.  Hopefully, sometimes things will get …&lt;/p&gt;</summary><content type="html">&lt;p&gt;After much research, toil, and soul-searching, I&amp;#8217;ve decided to start
+this blog as a way to both chronicle my postdoctoral endeavors and
+introduce myself (in a way) to the larger scientific community.  I
+hope that people will find my writings useful, informative, and
+entertaining.  Hopefully, sometimes things will get controversial and
+we can have meaningful dialogs.  Or, maybe you can just call me&amp;nbsp;names.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ve been thinking about doing this for a while now, but it just
+seemed a little self-aggrandizing to do so when I was still a student.
+Now that I&amp;#8217;m a fully-minted, Ph.D., however, everyone &lt;em&gt;should&lt;/em&gt; care
+about everything I have to say, right?  &lt;em&gt;Hardly.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ve chosen to blog on the &lt;a href="http://getpelican.com"&gt;Pelican&lt;/a&gt; platform.
+I looked around at the alternatives (Wordpress, Blogger, Jekyll,
+Octopress, Hyde), and this seemed like the best fit.  Everything seems
+to play nicely together, even with
+&lt;a href="https://www.enthought.com/products/canopy/"&gt;Canopy&lt;/a&gt;, which hasn&amp;#8217;t
+always the case for me.  Running right in my &lt;em&gt;User&lt;/em&gt; venv, some
+installs via pip and enpkg, and I was off and running.  Even my
+general distaste for all things web-development didn&amp;#8217;t stop me, and I
+managed to create something that, while mostly default, at least
+reflects my aesthetic.  The pages and source are hosted at
+&lt;a href="http://www.github.com/cfriedline/cfriedline.github.com"&gt;Github&lt;/a&gt;, too,
+so feel free to fork&amp;nbsp;it.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m looking forward to hearing from people, so please get in contact
+with me.  I&amp;#8217;m always open for collaboration and discussing interesting&amp;nbsp;ideas.&lt;/p&gt;</content></entry></feed>
