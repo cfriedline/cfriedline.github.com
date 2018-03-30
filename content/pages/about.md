@@ -2,7 +2,7 @@ Title: About
 
 ### tl;dr
 
-* My [Resume](https://drive.google.com/open?id=1a_k2ufx-QOv4ttTGCkWDEUHBDBakxzk9)
+* My [Resume](https://drive.google.com/open?id=1InktfVJVg52auvAQDBngnESixuI_w_NX)
 * My [CV](https://drive.google.com/file/d/0B3q53L7FjDi8RXJSM21DdlRXRFU/view?usp=sharing)
 
 
